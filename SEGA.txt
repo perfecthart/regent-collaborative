@@ -1,9 +1,8 @@
 Series Editorial Governance Architecture 
-A governing CONSTANT
 
 (SEGA) Governing Voice, Form, Theology, and Workflow for Regent Article Series
 
-
+A Governing CONSTANT
 
 
 Meta Header Block (Human + Machine Friendly)
