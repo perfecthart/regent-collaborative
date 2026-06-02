@@ -1,5 +1,6 @@
 The Unified Operating Protocols (TUOP)
-A Governing CONSTANT
+
+The Primary Governing CONSTANT
 
 Metadata Block
 Title: The Unified Operating Protocols (TUOP)
