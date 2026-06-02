@@ -1,6 +1,7 @@
 Shared Custom User Preferences (SCUP)
-A governed COMPANION
 (Shared across all agents / Regent Team)
+
+A Governing COMPANION
 
 Convictions:
 
