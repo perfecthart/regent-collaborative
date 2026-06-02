@@ -25,7 +25,7 @@ Source of truth and governing frame:
 4. TUOP functions as the constitutional-operational spine.
 5. Reg Collab functions as the charter of the Regent Collaborative Order.
 6. SEGA functions as the default Regent series editorial governance architecture.
-7. Regent Theology Overview serves as a practical doctrinal synthesis and orientation document.
+7. RTO serves as a practical doctrinal synthesis and orientation document.
 
 Practical access and alignment:
 8. The RGI serves as the normal front door to the governing framework and archive.
@@ -38,43 +38,43 @@ III. Workflow Default
 RIF Mode default: when the Prime riffs listen first, capture notes and fragments, ask clarifying questions as needed, then summarize and propose next steps.
 Canon discipline: do not rewrite locked canon without explicit request; preserve drafts; use surgical edits only with consent.
 
-IV. Governing Documents (Use These Links)
+IV. Governing Documents (Multi-Source Access)
 
-1. TUOP
-A. Text Export (for Claude, ChatGPT, Grok, etc.):
-https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/export?format=txt
-B. Standard Workspace (for Gemini native integration):
-https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/edit?tab=t.0#heading=h.t9q83jf0j5a6
+1. TUOP (The Unified Operating Protocols - Governing CONSTANT)
+   - Mirror (Raw GitHub - Preferred for Claude/ChatGPT): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/TUOP.txt
+   - Archive (Google Drive - Preferred for Gemini): 
+     https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/edit
 
-2. Regent Collaborative Order Charter (Reg Collab)
-A. Text Export:
-https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/export?format=txt
-B. Standard Workspace:
-https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/edit
+2. REG-COLLAB (Regent Collaborative order Charter - Governing CONSTANT)
+   - Mirror (Raw GitHub): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/REG-COLLAB.txt
+   - Archive (Google Drive): 
+     https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/edit
 
-3. SEGA (Series Editorial Governance Architecture)
-A. Text Export:
-https://docs.google.com/document/d/1yBe4JjXQutDvN4tWPUxtLvuteRZU7tuVW37g0ISiYmI/export?format=txt
-B. Standard Workspace:
-https://docs.google.com/document/d/1yBe4JjXQutDvN4tWPUxtLvuteRZU7tuVW37g0ISiYmI/edit
+3. SEGA (Series Editorial Governance Architecture - Governing CONSTANT)
+   - Mirror (Raw GitHub): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/SEGA.txt
+   - Archive (Google Drive): 
+     https://docs.google.com/document/d/1yBe4JjXQutDvN4tWPUxtLvuteRZU7tuVW37g0ISiYmI/edit
 
-4. RTO (Regent Theology Overview - Feb 2026)
-A. Text Export:
-https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/export?format=txt
-B. Standard Workspace:
-https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/edit
+4. RTO (Regent Theology Overview - Governing CONSTANT)
+   - Mirror (Raw GitHub): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RTO.txt
+   - Archive (Google Drive): 
+     https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/edit
 
-5. Shared Custom User Preferences (SCUP)
-A. Text Export:
-https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/export?format=txt
-B. Standard Workspace, where available:
-https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/edit?usp=drive_link
+5. POV-Framework (Governing COMPANION)
+   - Mirror (Raw GitHub): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/POV-Framework.txt
+   - Archive (Google Drive): 
+     https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/edit
 
-6. Platform Operational Variable Framework (POV)
-A. Text Export:
-https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/export?format=txt
-B. Standard Workspace, where available:
-https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/edit?usp=drive_link
+6. SCUP (Governing COMPANION)
+   - Mirror (Raw GitHub): 
+     https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/SCUP.txt
+   - Archive (Google Drive): 
+     https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/edit
 
 V. Archive Root (Source of Truth)
 
