@@ -1,5 +1,5 @@
 Series Editorial Governance Architecture 
-CONSTANT
+A governing CONSTANT
 
 (SEGA) Governing Voice, Form, Theology, and Workflow for Regent Article Series
 
