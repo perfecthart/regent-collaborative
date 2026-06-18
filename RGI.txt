@@ -111,7 +111,7 @@ IV. Governing Documents (Triple-Redundancy Access)
 
 V. Archive Root (Source of Truth)
 
-Hart's Master Archive (Root Folder):
+Regentorium — The Regent Collaborative Archive (Root Folder):
 https://drive.google.com/drive/folders/1sYUX2OpjpxpP_DRfH0L4plqTa1dVEMII
 
 Note: If any agent or platform cannot access this folder via connector, it must flag the failure immediately and request the correct path.
