@@ -195,22 +195,22 @@ Directory Flow: governance / companions / workflows / ccs-sop
 Core Workflow Charters and Companion Governance Documents
 Regent may maintain additional workflow charters, SOPs, editorial companions, and governance-adjacent documents that apply TUOP’s higher-order structure more specifically where needed.
 Directory Flow: governance / companions / workflows / [core-workflow-charters-and-companions]
-Archive Root: Hart’s Master Archive
+Archive Root: Regentorium
 IX.C. Governance Profile Environment
 These materials carry the continuity, profile, and identity-support functions that TUOP acknowledges but does not fully contain within its own body.
 Persona Dossiers
 Persona dossiers preserve fuller materials related to collaborator continuity, role development, characteristic profile, and identity-shaping content associated with a given recognized persona.
 Directory Flow: governance / companions / personagentics / persona-dossiers
-Archive Root: Hart’s Master Archive
+Archive Root: Regentorium
 Agent Profiles
 Agent profiles carry the operative, platform-facing, or compactly transferable material used to support consistent Regent-aligned interaction within a given agent environment, including where fallback or manual compact-entry methods are needed.
 Directory Flow: governance / companions / personagentics / agent-profiles
-Archive Root: Hart’s Master Archive
+Archive Root: Regentorium
 IX.D. Archive and Published Development
 These are the broader development channels through which Regent’s theological, editorial, and practical work may continue beyond the core governing documents.
 Archive-Held Development
 Certain companion treatments live in archive-held materials where Regent’s theological, editorial, and practical development is preserved in fuller form.
-Archive Root: Hart’s Master Archive
+Archive Root: Regentorium
 Published Content
 Some development is carried forward in published essays, series, articles, and related outward-facing content that remains downstream from TUOP while still reflecting Regent’s governed theological and editorial ecosystem.
 Directory Flow: published / [series-and-published-content]
