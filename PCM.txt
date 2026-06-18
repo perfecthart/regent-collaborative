@@ -1,0 +1,130 @@
+Project Change Memo (PCM)
+Formal Record of a Significant Change to a Project
+
+A Governing TEMPLATE
+________________
+
+Metadata Block
+Title: Project Change Memo (PCM)
+Type: Governing Template
+Role: Formal record of a significant change to a project's scope, direction, collaborators, governing alignment, or status
+Standing: Required whenever a material change is made to any Core Project or other substantive project in the archive
+Scope: Any project in Regentorium that undergoes a material change
+Function: Creates a traceable, retrievable record of what changed, why, who authorized it, and what the project looks like after the change; triggers an update to the PO and any relevant PSQ
+Format Posture: Machine-scannable and human-legible
+Document Relationship: Downstream of the PO (Project Overview); issued in response to findings from a PSQ or a Prime directive; triggers a PO update; archived alongside the PO in the project root
+Current Status: Active Canon
+
+________________
+
+I. Purpose Statement
+
+The Project Change Memo (PCM) is the formal record of a material change to a project. It exists because changes — to scope, direction, collaborators, status, or governing alignment — need to be traceable. A project that changes silently loses its integrity. A PCM makes the change legible: here is what was, here is what changed, here is why, and here is what now governs.
+
+A PCM is not required for every small edit or session adjustment. It is required when:
+- The project's scope or primary deliverable changes materially
+- The project's governing alignment changes
+- The project's status changes (e.g., Active to Dormant, or Dormant to Archived)
+- A collaborator or agent is added, removed, or significantly changes role
+- A significant decision is made that redirects the project's direction
+- A PSQ flags a change trigger
+- The Prime issues a directive that changes the project
+
+Every PCM triggers a corresponding update to the project's PO.
+
+________________
+
+II. Usage Rules
+
+1. Issue one PCM per material change event (multiple related changes may be captured in a single PCM if they occur simultaneously).
+2. The PCM may be drafted by an agent but must be ratified by the Prime before it is considered authoritative.
+3. Upon ratification, the project's PO must be updated to reflect the change.
+4. No field is left blank. Use N/A where a field does not apply.
+5. PCMs are archived in the project root alongside the PO:
+   Regentorium / Core Projects / [Project Name] / PCM_YYYY-MM-DD_[Handle]_[ChangeType].txt
+   Example: PCM_2026-06-18_HMR_ScopeChange.txt
+
+________________
+
+III. The PCM Template
+
+--- BEGIN PCM ---
+
+RDH (Document Header)
+[Attach a completed RDH at the top of every archived PCM]
+
+Memo Identification
+PCM Reference Number: [PCM-YYYY-MM-DD-NN, e.g., PCM-2026-06-18-01]
+Project Name: [Full name of the project]
+Project Handle: [Abbreviation, e.g., HMR]
+Change Date: YYYY-MM-DD
+Change Type: [One or more of: Scope Change / Deliverable Change / Status Change / Collaborator Change / Governing Alignment Change / Directional Redirect / Archive Change / Other]
+Change Trigger: [What prompted this PCM? e.g., PSQ finding, Prime directive, session decision, external development]
+Issued By: [Who drafted and submitted this PCM: Prime / Agent name]
+Prime Authorization: [Name of Prime or Agent authorized by Prime]
+
+The Change
+Summary of Change:
+[2–4 sentences describing what is changing. Written clearly enough for a future reader with no context.]
+
+Before (Prior State):
+[Describe the relevant aspect(s) of the project before this change. Be specific.]
+
+After (New State):
+[Describe the relevant aspect(s) of the project after this change. Be specific.]
+
+Rationale:
+[Why is this change being made? What theological, editorial, practical, or governance reason drives it? Be honest.]
+
+Impact Assessment
+What other documents, projects, or workflows are affected by this change?
+[List each affected artifact and the nature of the impact. If none, write: None.]
+
+Does this change affect governing alignment (Constants or Companions that govern this project)?
+[Yes / No — if Yes, describe the change.]
+
+Does this change require any other governance action (e.g., update to RGI, AO, a governing Constant, or another PO)?
+[Yes / No — if Yes, describe the required action.]
+
+Required Follow-Up Actions
+[List all actions that must be taken as a result of this PCM. Each action should have an owner and target.]
+1. Update PO to reflect change — [Owner] — [Target]
+2. 
+3. 
+[Add as needed.]
+
+PO Update
+Has the project's PO been updated to reflect this change?
+[Yes / No / Pending]
+PO Update Date: [YYYY-MM-DD or Pending]
+PO Update Notes: [Brief note on what was changed in the PO, or N/A]
+
+Prime Ratification
+Prime Ratification Status: [Ratified / Unratified — Agent Draft / Pending]
+Date Ratified: [YYYY-MM-DD or Pending]
+Prime Notes: [Any directive or response from the Prime, or N/A]
+
+Agent Notes
+[Any observations, flags, or promissory notes from the drafting agent. Extensible.]
+
+--- END PCM ---
+
+________________
+
+IV. PCM and the Disposition System
+
+A PCM may change a project's disposition. If the change results in a disposition change, note it explicitly:
+
+Previous Disposition: [e.g., RETAIN-Active]
+New Disposition: [e.g., RETAIN-Archive]
+Rationale: [Why the disposition changed]
+
+Disposition changes to FLAGGED-Suggest Delete or PRIME DECISION-Pending require explicit Prime authorization noted in the Prime Ratification field.
+
+________________
+
+V. Change Log
+
+Date: 2026-06-18
+Change: Initial PCM template created
+Author: Comet (Perplexity) under Prime direction
