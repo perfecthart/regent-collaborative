@@ -5,51 +5,51 @@ A Governing TEMPLATE
 ________________
 
 Metadata Block
-Title: Project Status Questionnaire (PSQ)
+Title: Project Status Inquiry (PSI)
 Type: Governing Template
 Role: Periodic health check and status snapshot for active Regent projects
 Standing: Normative for all Core Projects and any long-running project in the archive
 Scope: Active projects in Regentorium — particularly Core Projects
 Function: Captures the current health, progress, blockers, and next steps of a project in a structured, retrievable format; enables agents and the Prime to orient quickly to a project's state
 Format Posture: Machine-scannable and human-legible
-Document Relationship: Downstream of the PO (Project Overview); feeds into PCM (Project Change Memo) when a change is warranted; archived alongside session gleanings (RSG) in the project folder
+Document Relationship: Downstream of the TPO (The Project Overview); feeds into PCM (Project Change Memo) when a change is warranted; archived alongside session gleanings (RSG) in the project folder
 Current Status: Active Canon
 
 ________________
 
 I. Purpose Statement
 
-The Project Status Questionnaire (PSQ) is the standard periodic health check for any active Regent project. It is not a progress report to an outside party. It is a self-examination: a structured way for the Prime, a collaborator, or an agent to take stock of where a project is, what is working, what is blocked, and what is needed to move forward.
+The Project Status Inquiry (PSI) is the standard periodic health check for any active Regent project. It is not a progress report to an outside party. It is a self-examination: a structured way for the Prime, a collaborator, or an agent to take stock of where a project is, what is working, what is blocked, and what is needed to move forward.
 
-The PSQ is completed at regular intervals during a project's life:
+The PSI is completed at regular intervals during a project's life:
 - At the start of a new working session on a project that has been dormant for two or more weeks
 - At the close of a major phase or milestone
 - When a project feels stuck, unclear, or in need of redirection
 - On request by the Prime
 
-The PSQ does not make decisions. It surfaces information so that decisions can be made.
+The PSI does not make decisions. It surfaces information so that decisions can be made.
 
 ________________
 
 II. Usage Rules
 
-1. Complete one PSQ per project per status cycle.
-2. The PSQ may be completed by the Prime, by an agent on the Prime's behalf, or collaboratively.
-3. Agent-completed PSQs must be flagged for Prime review.
-4. A PSQ that reveals a material change in project scope, direction, or viability should trigger a PCM (Project Change Memo).
+1. Complete one PSI per project per status cycle.
+2. The PSI may be completed by the Prime, by an agent on the Prime's behalf, or collaboratively.
+3. Agent-completed PSIs must be flagged for Prime review.
+4. A PSI that reveals a material change in project scope, direction, or viability should trigger a PCM (Project Change Memo).
 5. No field is left blank. Use N/A, None, or [Unknown] where the value is not known or does not apply.
-6. Completed PSQs are archived in the project folder:
+6. Completed PSIs are archived in the project folder:
    Regentorium / Core Projects / [Project Name] / Status
-   Naming convention: PSQ_YYYY-MM-DD_[ProjectHandle].txt
+   Naming convention: PSI_YYYY-MM-DD_[ProjectHandle].txt
 
 ________________
 
-III. The PSQ Template
+III. The PSI Template
 
---- BEGIN PSQ ---
+--- BEGIN PSI ---
 
 RDH (Document Header)
-[Attach a completed RDH at the top of every archived PSQ]
+[Attach a completed RDH at the top of every archived PSI]
 
 Project Identification
 Project Name: [Full name of the project]
@@ -57,8 +57,8 @@ Project Handle: [Shorthand or abbreviation, e.g., HMR, RCF]
 Project Type: [One of: Theological Series / Essay / Book / Governance / Research / Editorial / Mixed / Other]
 Prime Lead: Christopher Hart (Topher / Lorewright)
 Key Collaborators: [Named agents and human collaborators active on this project]
-PSQ Date: YYYY-MM-DD
-PSQ Cycle: [e.g., Session Start / Phase Close / Monthly / Ad Hoc / Prime Request]
+PSI Date: YYYY-MM-DD
+PSI Cycle: [e.g., Session Start / Phase Close / Monthly / Ad Hoc / Prime Request]
 Governing Alignment: [Constants and Companions governing this project]
 
 Project Overview (Brief)
@@ -72,7 +72,7 @@ Last Activity Date: YYYY-MM-DD
 Estimated Completion: [Date, timeframe, or Unknown]
 
 Progress Assessment
-What has been accomplished since the last PSQ (or since project start)?
+What has been accomplished since the last PSI (or since project start)?
 [Narrative or bulleted list. Be specific.]
 
 What is the current state of the primary deliverable?
@@ -114,7 +114,7 @@ What are the concrete next actions to move this project forward?
 [Add as needed.]
 
 Change Trigger
-Does this PSQ reveal anything that warrants a PCM (Project Change Memo)?
+Does this PSI reveal anything that warrants a PCM (Project Change Memo)?
 [Yes / No — if Yes, describe the change and note that a PCM should be drafted.]
 
 Prime Review
@@ -132,5 +132,5 @@ ________________
 IV. Change Log
 
 Date: 2026-06-18
-Change: Initial PSQ template created
-Author: Comet (Perplexity) under Prime direction
+Change: Initial PSI template created
+Author: Tim (Comet or Perplexity) under Prime direction
