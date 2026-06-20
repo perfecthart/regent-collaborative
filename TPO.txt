@@ -1,11 +1,11 @@
-Project Overview (PO)
+The Project Overview (TPO)
 Canonical One-Page Definition of a Regent Project
 
 A Governing TEMPLATE
 ________________
 
 Metadata Block
-Title: Project Overview (PO)
+Title: The Project Overview (TPO)
 Type: Governing Template
 Role: Canonical one-page definition of a project — purpose, scope, collaborators, status, and archive location
 Standing: Required for all Core Projects; recommended for any multi-session project in the archive
@@ -19,31 +19,31 @@ ________________
 
 I. Purpose Statement
 
-The Project Overview (PO) is the canonical definition of a project. Every substantive Regent project — a theological series, a book, a governance initiative, a research body — should have a PO. It tells any reader, agent, or collaborator what the project is, why it exists, what it is meant to produce, who is involved, and where it lives in the archive.
+The Project Overview (TPO) is the canonical definition of a project. Every substantive Regent project — a theological series, a book, a governance initiative, a research body — should have a PO. It tells any reader, agent, or collaborator what the project is, why it exists, what it is meant to produce, who is involved, and where it lives in the archive.
 
-The PO is not a plan. It is a definition. Plans change; the PO captures the essential, stable identity of a project. It is updated only when the project's fundamental identity changes — and such a change ordinarily warrants a PCM.
+The TPO is not a plan. It is a definition. Plans change; the TPO captures the essential, stable identity of a project. It is updated only when the project's fundamental identity changes — and such a change ordinarily warrants a PCM.
 
-One PO per project. The PO lives in the project's root folder in the archive.
+One TPO per project. The TPO lives in the project's root folder in the archive.
 
 ________________
 
 II. Usage Rules
 
-1. Create one PO when a project is formally opened.
-2. The PO is created by the Prime or by an agent on the Prime's behalf, and ratified by the Prime.
-3. The PO is updated when a PCM is issued that changes the project's scope, collaborators, or governing alignment.
+1. Create one TPO when a project is formally opened.
+2. The TPO is created by the Prime or by an agent on the Prime's behalf, and ratified by the Prime.
+3. The TPO is updated when a PCM is issued that changes the project's scope, collaborators, or governing alignment.
 4. No field is left blank. Use N/A or TBD where values are not yet known.
-5. The PO is archived in the project root:
-   Regentorium / Core Projects / [Project Name] / PO_[ProjectHandle].txt
+5. The TPO is archived in the project root:
+   Regentorium / Core Projects / [Project Name] / TPO_[ProjectHandle].txt
 
 ________________
 
-III. The PO Template
+III. The TPO Template
 
---- BEGIN PO ---
+--- BEGIN TPO ---
 
 RDH (Document Header)
-[Attach a completed RDH at the top of every archived PO]
+[Attach a completed RDH at the top of every archived TPO]
 
 Project Identity
 Project Name: [Full formal name of the project]
@@ -75,7 +75,7 @@ Project-Specific Rules: [Any project-specific protocols, guidelines, or constrai
 Collaborators
 Prime Lead: Christopher Hart (Topher / Lorewright)
 Human Collaborators: [Any other human contributors, or N/A]
-Primary Agent(s): [Named agents and platforms most active on this project, e.g., Comet / Perplexity, Fable / Claude, Ara / Grok]
+Primary Agent(s): [Named agents and platforms most active on this project, e.g., Tim / Perplexity, Barney / Claude, Ara / Grok]
 Supporting Agent(s): [Other agents with a role, or N/A]
 Factor / Lane Assignments: [If roles are formally assigned per REG-COLLAB structure, list them here, or N/A]
 
@@ -83,7 +83,7 @@ Archive Location
 Primary Archive Path: Regentorium / Core Projects / [Project Name]
 Drive Folder: [Drive folder link or TBD]
 GitHub Path: [GitHub path if applicable, or N/A]
-Related Documents: [Key documents associated with this project — PO, PSQs, PCMs, session gleanings, drafts]
+Related Documents: [Key documents associated with this project — TPO, PSIs, PCMs, session gleanings, drafts]
 
 Milestones
 [List major milestones, phases, or stages for this project. Check off completed ones.]
@@ -97,8 +97,8 @@ Open Issues and Known Risks
 [If none, write: None.]
 
 Revision History
-[Track material changes to this PO. Each entry should note date, change, and author.]
-Date: [Initial creation date] — PO created — [Author]
+[Track material changes to this TPO. Each entry should note date, change, and author.]
+Date: [Initial creation date] — TPO created — [Author]
 
 Prime Ratification
 Prime Ratification Status: [Ratified / Unratified — Agent Draft / Pending]
@@ -108,7 +108,7 @@ Prime Notes: [N/A or any notes from the Prime]
 Agent Notes
 [Extensible. Agents may add observations, flags, or tracking notes here.]
 
---- END PO ---
+--- END TPO ---
 
 ________________
 
