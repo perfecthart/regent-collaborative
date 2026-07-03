@@ -8,7 +8,7 @@ Role: 	Lateral extension of the TUOP spine into full doctrinal orientation and s
 Standing: Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the doctrinal domain
 Scope: Regent-wide. Governs the doctrinal orientation of all Regent work — the theological silhouette every piece inhabits.
 Function: States and develops Regent Theology in overview — the core confession, the higher-level distinctives (Recursive Narrative Covenantalism, Regency Restored, Kainanthrōpōsis, Engrafted Identity, Inaugurated Premillennialism), and their doctrinal synthesis — beyond the compact silhouette of TUOP §VI
-Relationship: 	Extends the TUOP Doctrinal Alignment section (TUOP §VI) laterally into full governing form. The doctrinal Constant, peer to the editorial and publishing Constants (RES, RPA), each governing its own whole-crossing domain.
+Relationship: Extends the TUOP Doctrinal Alignment section (TUOP §VI) laterally into full governing form. The doctrinal Constant, peer to the editorial and publishing Constants (RES, RPA), each governing its own whole-crossing domain.
 Status: Active (formerly "Functional Provisional Canon Locked"; normalized by governed update)
 Disposition: RETAIN-Active
 
