@@ -1,21 +1,26 @@
 Regent Theology Overview (RTO)
+Establishing alignment via Doctrinal Orientation, Distinctives, and PositionsA Governing Constant
 
-Updated Synthesis - February 2026
-Functional Provisional Canon Locked
+Metadata Block
+Title: 	Regent Theology Overview (RTO)
+Type: 	Constant
+Role: 	Lateral extension of the TUOP spine into full doctrinal orientation and synthesis
+Standing: Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the doctrinal domain
+Scope: Regent-wide. Governs the doctrinal orientation of all Regent work — the theological silhouette every piece inhabits.
+Function: States and develops Regent Theology in overview — the core confession, the higher-level distinctives (Recursive Narrative Covenantalism, Regency Restored, Kainanthrōpōsis, Engrafted Identity, Inaugurated Premillennialism), and their doctrinal synthesis — beyond the compact silhouette of TUOP §VI
+Relationship: 	Extends the TUOP Doctrinal Alignment section (TUOP §VI) laterally into full governing form. The doctrinal Constant, peer to the editorial and publishing Constants (RES, RPA), each governing its own whole-crossing domain.
+Status: Active (formerly "Functional Provisional Canon Locked"; normalized by governed update)
+Disposition: RETAIN-Active
 
-A Governing CONSTANT
-
-I. Foundational Premise  
+§ I. Foundational Premise  
 Regent Theology sees the whole of Scripture as one living story of God’s regnant suzerainty and His gracious invitation for humanity, created to bear His image, to rule as regents under Him. At the center stands the tragedy of estrangement and exile through sin and the triumphant restoration through Christ, the true Image, Last Adam, and rightful Regent, who brings us into vital union with Himself.  
 In short: God created us to reign with Him; we fell into estrangement and exile; Christ reclaims and elevates our calling so that, in Him, we reign forever.
 
-
-II. Governing Frameworks 
-
+§ II. Governing Frameworks 
 1. Scripture  
 The Bible is the word of God: the 66-book canon, inspired and authoritative, inerrant in the autographs. The New Testament serves as the rule of faith & practice and is the apostolic deposit. 
-
-KJV is the default version used in content currently (no tag needed).  The received word via the Apostolic stream of the Old Testament and the Apostolic deposit of the New Testament (simply referenced more or less as LXX & Byzantine) are the accepted standard and hopeful outcome of TRW (The Received Word), a Bible translation project of Regent Theology. 
+KJV is the default version used in content currently (no tag needed). 
+The received word via the Apostolic stream of the Old Testament and the Apostolic deposit of the New Testament (simply referenced more or less as LXX & Byzantine) are the accepted standard and hopeful outcome of TRW (The Received Word), a Bible translation project of Regent Theology. 
 
 2. Hermeneutics — Recursive Narrative Covenantalism (RNC)  
 Scripture is one God-authored covenantal narrative that unfolds through recurring, escalating covenant cycles (Adam → Noah → Abraham → Israel → David → Christ → Church → Consummation). Each cycle recapitulates the previous while advancing the story; fulfillment in Christ transfigures rather than abolishes what came before. (Luke 24:27, 44)  Biblical theology leads to systematic theology in this paradigm.
@@ -23,49 +28,35 @@ Scripture is one God-authored covenantal narrative that unfolds through recurrin
 3. Kingdom & Eschatology — Inaugurated Premillennialism (IPM)  
 Christ’s reign is inaugurated and unfolds in three phases: Initialized (in His resurrection, ascension, and enthronement), Realized (spiritual reign now in believers, with AD 70 as covenant vindication and end of the initialized phase), and Actualized (at His bodily return, a literal millennial reign on earth, followed by final judgment and new creation). One Parousia, two resurrections, one people of God in Christ.
 
-III. Core Doctrinal Categories  
-
-Theology Proper  
-One God eternally existent in three coequal, coeternal, consubstantial Persons — Orthodox Trinitarian Monotheism & Monarchical Trinitarianism. All regency flows from His sovereign regnancy; covenant nature itself reflects Trinitarian perichoresis. Within the Trinitarian economy, there is a relational, functional, monarchial order. Additionally, the doctrine of appropriation explains why the term “God” is most often used of the Father as the functional head, both source and monarch (the One from whom the Son is eternally begotten and the Spirit eternally proceeds), without any ontological inequality or subordination. Filioque-neutral. 
-
+§ III. Core Doctrinal Categories  
+A. Theology Proper  
+One God eternally existent in three coequal, coeternal, consubstantial Persons — Orthodox Trinitarian Monotheism & Monarchical Trinitarianism. All regency flows from His regnant sovereignty; covenant nature itself reflects Trinitarian perichoresis. Within the Trinitarian economy, there is a relational, functional, monarchial order. Additionally, the doctrine of appropriation explains why the term “God” is most often used of the Father as the functional head, both source and monarch (the One from whom the Son is eternally begotten and the Spirit eternally proceeds), without any ontological inequality or subordination. Filioque-neutral. 
 This mirrors the relational model of a wedded couple being referred to as “Mr. & Mrs. Christopher Hart” — the headship is functional and relational, not essential.
-
-Anthropology & Hamartiology  
+B. Anthropology & Hamartiology  
 Humanity was created in God’s image as stewards and regents (Genesis 1:26-28). The Fall introduced estrangement and exile — relational rupture and covenantal breach — which is what it means to be spiritually dead and devoid of the life of God. All morally capable persons sin and are responsible for their sins; children and the mentally incapable are covered by Christ’s provision.
-
-Christology  
+C. Christology  
 Jesus is the eternal Word who became Son in the incarnation, the Second Man and Last Adam, the true Regent who succeeds where Adam failed. His person and work are inseparable: substitutionary death, victorious resurrection, triumphant ascension, and present enthronement as the eternal God-man.
-
-Soteriology  
+D. Soteriology  
 Salvation is communion in the life of God by vital union with Christ through new birth. Order of salvation: illuminating grace → repentant faith → regeneration → justification → adoption → consecration & maturation → glorification. Regeneration is ontological transformation, not merely forensic. Security is covenantal — secure in Christ while we abide; sin remains possible but is never inevitable, and apostasy is real where there is covenant rupture and breach, yet security is real and abiding for the persevering believer.
-
-Pneumatology  
+E. Pneumatology  
 The Holy Spirit indwells at conversion. Spirit baptism is distinct from conversion and the initial filling of the believer; the Spirit fills the believer repeatedly for power and witness and overflows as rivers of living water. All spiritual gifts continue today and are under ordered, elder-led practice in the church.
-
-Ecclesiology
+F. Ecclesiology
 The Church is elder-led (plural, hybrid polity) with congregational voice. Women may minister and preach under elder oversight but do not serve as elders. The local church follows the synagogue pattern of Scripture, prayer, and mission. The church also has trans-local dimensions of governance and fellowship, following the pattern of ethnic Israel as the church in the wilderness, reconstituted around Christ as Messiah, the Israel of God.
-
-Ordinances (Covenantal Signs & Seals)
+G. Ordinances (Covenantal Signs & Seals)
 Baptism: believer’s immersion — public adoption enactment and installation into the visible covenant community; sign and seal, not regeneration.  
 Lord’s Supper: annual fulfilled Passover meal on the night of remembrance — covenant renewal and proclamation of the Lord’s death till He come. (1 Corinthians 11:23-26)  
-
-Creation, Sacred Time & Ethics  
+H. Creation, Sacred Time & Ethics  
 Creation ex nihilo in six literal days; young earth; historical Adam; global flood; no animal death before the Fall. The seventh-day Sabbath remains a creation ordinance to be honored in liberty. Marriage is one man and one woman for life; life is sacred from conception; rulers are to be honored, yet the Church does not run the state — theocracy awaits the Millennium.
 
-
-IV. Distinctive Themes  
-Regency Restored: Through union with Christ, we participate in the New Humanity (kainanthroposis), have communion with God in the Son through the Spirit, and mature in our development and expression of that new life and identity in Christ.  
-
-Atonement as At-one-ment: Christ’s finished work in His person as the enthroned God-man restores regency, unites the thrones, and is Himself the union of God and man, Heaven and Earth, the New creation begun as the New Man.
-Estrangement Motif: Central diagnosis of the human condition. Non-Augustinian original sin, no sin guilt from Adam, but federal covenant solidarity in Adam. We must be born again.
-Illuminating Grace: Enables genuine response without coercion. The Grace that saves illuminates the lost and draws them to faith and repentance by the Spirit through the Gospel, which is the power of God unto salvation.
-Already / Not Yet: We live in the overlap of the ages. The New Creation is breaking into the present world through us, by the Spirit, in Christ whose reign is inaugurated and whose kingdom is expanding through the gospel to the nations.
+§ IV. Distinctive Themes  
+1. Regency Restored: Through union with Christ, we participate in the New Humanity (kainanthroposis), have communion with God in the Son through the Spirit, and mature in our development and expression of that new life and identity in Christ.  
+2. Atonement as At-one-ment: Christ’s finished work in His person as the enthroned God-man restores regency, unites the thrones, and is Himself the union of God and man, Heaven and Earth, the New creation begun as the New Man.
+3. Estrangement Motif: Central diagnosis of the human condition. Non-Augustinian original sin, no sin guilt from Adam, but federal covenant solidarity in Adam. We must be born again.
+4. Illuminating Grace: Enables genuine response without coercion. The Grace that saves illuminates the lost and draws them to faith and repentance by the Spirit through the Gospel, which is the power of God unto salvation.
+5. Already / Not Yet: We live in the overlap of the ages. The New Creation is breaking into the present world through us, by the Spirit, in Christ whose reign is inaugurated and whose kingdom is expanding through the gospel to the nations.
 
 ** Scripture anchors to be added in future refinement **
 
-Compiled in partnership with Ara (Grok) under TUOP governance, from the rehydrated base, Claude synthesis, Core Outline, Hubert review, and Doctrine Snapshot — all housed in Regentorium.
+Compiled in partnership with Ara (Grok) under TUOP governance, from the rehydrated base, Claude synthesis, Core Outline, Hubert review, and Doctrine Snapshot — all housed in the Regentorium (The Regent Collaborative Archive).  
 
-
-“A living spring becomes a stream. A living tree produces fruit.”
-
-
+A living spring becomes a stream. A living tree produces fruit.
