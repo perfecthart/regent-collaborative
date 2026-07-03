@@ -1,1 +1,107 @@
-placeholder
+Regent Publishing Architecture (RPA)
+The Kinds, Development, and Lifecycle of Regent's Content
+
+A Governing Constant
+
+Metadata Block
+Title:  			Regent Publishing Architecture
+Type:  				Constant
+Role:  				Lateral extension of the TUOP spine into the governance of content form and lifecycle
+Standing:  		Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the publishing domain
+Scope:  			Regent-wide. Governs the kind, development, production lifecycle, and archival identity of all Regent content.
+Function:  		States and develops the taxonomy of content types, the axis of Development Tier, the axis of Production Stage, the header-block standard, and the governing rules of preservation and publishable form.
+Relationship: Extends the TUOP Communicative Identity & Editorial Standing section laterally into full governing form. Co-Constant to the Regent Editorial Standards.
+Co-Constant: Regent Editorial Standards (governs the manner of expression — the how; this document governs the what).
+Current Status: Active. A floor, not a ceiling.
+Disposition: RETAIN-Active 
+
+§0. Standing and Relation to TUOP
+This document is a governing Constant. Like its companion, RES,  it does not stand beneath TUOP as a subordinate but extends the TUOP spine outward. Where the TUOP Communicative Identity & Editorial Standing section states Regent's communicative commitments in compact constitutional form, this Constant carries that spine laterally into the governance of content — what a piece is, how far it is developed, where it stands in production, and how it is preserved and made fit to publish. It is co-extensive with TUOP across the publishing domain and governs all Regent content.
+Where the Editorial Standards govern the how of Regent's expression, this Constant governs the what: the kinds of pieces, their development, and their lifecycle. The two are independent — each governs in the absence of the other — yet they meet at the header block and inform one another constantly, for the kind of a piece tends to predict the idiom it draws.
+
+Note on placement: the parent TUOP section is Section VII (Communicative Identity & Editorial Standing); references here name it accordingly. 
+
+§1. The Four Dimensions of a Work
+A piece of Regent work stands at the meeting of several independent dimensions. Two belong to expression and are governed by the Editorial Standards; two belong to form and lifecycle and are governed here. None collapses into another.
+Type — what kind of piece it is. (This Constant, §2.)
+Tier — how far the idea is developed, and to what rigor. (This Constant, §3.)
+Stage — where the piece stands in its production lifecycle, and how tightly its editing is governed. (This Constant, §4.)
+Register, Prose, Idiom — how it sounds. (Editorial Standards.)
+Type and Tier are independent: a theological essay (type) may sit at a developed tier or climb to dissertation-grade (tier) while remaining the same type. Type and Stage are independent: any type moves through the same lifecycle. The independence is what lets a single subject grow — spawning many pieces, each of its own type, each at its own stage — while the whole remains orderable.
+
+§2. Content Types
+The following inventory is a floor, not a ceiling; further types may be recognized as the work requires. Each type tends toward a default idiom — a gravitational pull, never a compulsion. Terminology is held open where a better word may yet ring.
+
+Outward-facing pieces
+Proclamation essay (externally, a standalone theological essay) — the flagship standalone. Register: Proclamation. Idiom pull: theological / common.
+Formation article — the series default and teaching piece. Register: Formation. Idiom pull: theological, at times ecclesiastical.
+Theology paper — exegetical and doctrinal work. Register: Scholarly. Idiom pull: theological / confessional.
+Treatise — long systematic work. Register: Scholarly or Proclamation. Idiom pull: theological.
+Short-form / social — brief outward pieces for broader and younger audiences. Register: Formation. Prose pull: Modern. Idiom: common / NA.
+
+Confessional and ecclesial pieces
+Confession — creedal statement. Idiom pull: confessional (dominant), ecclesiastical (secondary).
+Catechism (anticipated) — Idiom pull: ecclesiastical / confessional.
+
+Internal and governance pieces
+Council record — session records of the collaborative. Register: Porch / formal. Idiom pull: council.
+Governance document / Constant — TUOP, the Charter, this document. Idiom pull: council / ecclesiastical.
+Gleaning / cue / intention note — the curation-and-orientation pieces. Register: Porch. Idiom: varies / NA.
+
+Specialized project pieces
+Historical-political work — e.g., the Christian-ethos roots of American order. Idiom pull: historical-political (surface), theological (substrate) — a clear stacking case.
+Narrative / fiction — world-building and story. Idiom pull: narrative.
+Translation work — translation and lexical-critical pieces. Idiom pull: textual / scholarly.
+
+§3. Development Tier — The Depth Axis
+Tier measures how far an idea has been grown and how rigorous its treatment is — across however many pieces. A subject climbs tiers and may spawn many pieces as it ascends; one substantial article can mature into a whole project family.
+Tier 1 — blog or devotional treatment; biblical, with scriptural citation and light other citation.
+Tier 2 — a developed essay; a proper theological treatment.
+Tier 3 — flagship-grade; dense and expressive, doing what a flagship does.
+Tier 4 — academic, dissertation-grade; full rigor, citation-bearing and defensible, at master's or doctoral level.
+A dissertation is not a separate type but a Theology Paper or Treatise carried to Tier 4. Tier and Register correlate without collapsing: Tier 4 pulls toward Scholarly, Tier 3 toward Proclamation density — tendency, not rule.
+
+§4. Production Stage — The Lifecycle Axis
+Stage tracks a single piece through production. Where Tier grows an idea, Stage finishes a piece. The ordinary progression:
+Seed → Outline → Rough draft → First archived draft (the draft that survives drafting and enters the archive pipeline) → Architectural pass → Citation and fact-check → Prose synthesis → Reader's pass → Quality assurance and verification → Focused refining → Final draft → Published artifact.
+
+§4.1 The governing rule of Stage
+Editing discipline tightens as Stage advances. Beyond a defined threshold (working language: roughly the third stage, at which a piece is held as provisional canon), only fine, focused revisions are permitted — no rewrites, no rebuilding. This is the protection against loss of container and the silent overriding of settled content. Stage does not merely label a piece; it governs what manner of editing the piece may receive. This rule stands in harmony with the canon discipline of TUOP, which holds that stabilized material is not to be dissolved by drift or convenience but revised only by recognized means with clarity about what is preserved and what is refined.
+
+§5. The Header Block
+Every Regent artifact wears a front-matter header — a colophon orienting any reader or collaborator, human or agent, to what the work is and how it is to be handled. It travels with the work and matures with it. Two layers grow at different rates. The header block is an instance of the Regent metadata standard — the Floor, Menu, and Open Field pattern held authoritatively in the Regent Document Header (RDH §II); this Constant names the fields that standard carries in the publishing domain. 
+
+Identity layer (stable)
+Title · Project Family · Content Type · Tier · Status / Stage. These fields change rarely.
+Handling layer (growing)
+Register · Prose · Idiom · Voice · Style · File Types. Downstream protocols may add fields as they mature. (The editorial fields are specified in the Editorial Standards; the two Constants meet here.)
+
+§5.1 The rule of the answered field
+No header field is left blank. Every field is answered, and NA — “considered; does not apply” — is a valid answer. A blank may mean either “did not apply” or “was not considered”; an answered field, even when answered NA, can mean only that a collaborator weighed the matter and recorded a judgment. This leaves a trail, and the trail is part of what makes the archive a witness rather than a heap. The rule is held authoritatively in the Regent Document Header (RDH §II), where it binds all Regent metadata; it is named here because it binds every field across both Constants. 
+
+§5.2 The Document & Workflow Templates
+The standing forms that carry this architecture into practice — the Regent Document Header (RDH), the Regent Session Gleaning (RSG), The Project Overview (TPO), the Project Status Inquiry (PSI), and the Project Change Memo (PCM) — are Orders of Operation, registered with their locations in the Archive Overview's Template Registry (TAO §VI). They are retrieved from the registry as needed rather than reconstructed. The metadata pattern they instantiate is the RDH §II standard; the record-keeping norm that puts them to work is stated among the operating defaults of the RGI (§III). 
+
+§6. Preservation and the Publishable Artifact
+
+§6.1 Archive record & publishable artifact distinguished
+Every piece that reaches the published stage is saved in two distinct forms. The archive record preserves the work entire — header block, editorial scaffolding, support material, and its associations within its project family. The publishable artifact is the finished work alone, stripped of governance apparatus, still associated with its family but standing free, ready to become an essay, a booklet, an ebook, a series entry, or a book. The one preserves; the other travels. Conflating them is a loss either way — either the published version drags its scaffolding into the world, or the archive forgets how the work was made. Regent keeps both.
+
+§6.2 Preservation posture
+This Constant inherits and applies TUOP's archival posture: Regent's work is continuity-bearing, not disposable; significant work is handled with due regard for capture, preservation, recoverability, and stable reference; and where present tools make full preservation uneven, the governing posture is recovery-minded rather than indifferent. The clean-artifact discipline above is one concrete expression of that posture.
+
+§7. The Type-Predicts-Idiom Principle
+Type and Idiom live in different Constants — Type here, Idiom in the Editorial Standards — yet they are bound by a real gravitation. A confession draws the confessional idiom; a council record draws the council idiom; a historical-political work draws its named stack. The type does not compel the idiom — a Formation article may touch confessional ground without becoming a Confession — but the pull is strong enough to be named. Each type's default idiom is recorded in §2 as a suggested pairing: named by Publishing Architecture, honored by Editorial Standards, and overridden only where a particular piece genuinely bears otherwise.
+
+§8. Internal and External Naming
+A content type may carry one name within the collaborative and another before the world. A Proclamation essay internally is, externally, simply a standalone theological essay; a gleaning internally has no external face at all. This Constant governs the internal taxonomy and its external presentation alike, so that a piece is named consistently within the archive and presented fittingly without. Where the two differ, both are recorded in the header, so that no collaborator must guess which name governs which setting.
+
+§9. Open Items (Provisional)
+The content-type inventory is locked as a working floor; individual type names are held open where a better word may ring.
+The Tier and Stage definitions are stated; the “threshold stage” for tightened editing is named in working language and awaits a settled designation.
+The clean publishable-artifact rule (§6.1) is locked.
+Header-block fields are to be kept compatible with the tiered curation-template family (archive → project family → sub-project → piece) so they drop in without translation.
+Final packaging relative to the Editorial Standards is locked as two Constants, called Co-Constants, reflected above in RES and RPA.
+
+Type, Tier, Stage 
+The what, the how far, and the where (in its life), under one Voice and one Confession.
