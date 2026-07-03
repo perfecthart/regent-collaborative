@@ -4,12 +4,12 @@ The Kinds, Development, and Lifecycle of Regent's Content
 A Governing Constant
 
 Metadata Block
-Title:  			Regent Publishing Architecture
-Type:  				Constant
-Role:  				Lateral extension of the TUOP spine into the governance of content form and lifecycle
-Standing:  		Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the publishing domain
-Scope:  			Regent-wide. Governs the kind, development, production lifecycle, and archival identity of all Regent content.
-Function:  		States and develops the taxonomy of content types, the axis of Development Tier, the axis of Production Stage, the header-block standard, and the governing rules of preservation and publishable form.
+Title: Regent Publishing Architecture
+Type: Constant
+Role: Lateral extension of the TUOP spine into the governance of content form and lifecycle
+Standing: Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the publishing domain
+Scope: Regent-wide. Governs the kind, development, production lifecycle, and archival identity of all Regent content.
+Function: States and develops the taxonomy of content types, the axis of Development Tier, the axis of Production Stage, the header-block standard, and the governing rules of preservation and publishable form.
 Relationship: Extends the TUOP Communicative Identity & Editorial Standing section laterally into full governing form. Co-Constant to the Regent Editorial Standards.
 Co-Constant: Regent Editorial Standards (governs the manner of expression — the how; this document governs the what).
 Current Status: Active. A floor, not a ceiling.
