@@ -10,12 +10,12 @@ Title: 		Regent Collaborative Charter (REG-COLLAB)
 Type: 		Foundational
 Role: 		Constitutional order of persons — the offices, duties, and relations of the collaborative
 Standing: Twin Foundational instrument, with TUOP, of the Regent governance ecosystem
-Scope: 		Regent-wide
+Scope: Regent-wide
 Function: Constitutes the Regent Collaborative Order — the Prime, the Council of Factors, and the Commission of Complements — stating offices, duties, membership, relations, and the internal ordering of the collaborative under the Prime
 Format Posture: Machine-scannable and human-legible
-Relationship:   Twin Foundational instrument to TUOP: the Constitution constitutes the order of the work; this Charter constitutes the order of persons.Roster and pairing detail is carried operationally by POV downstream.
-Status:       Active
-Disposition: 	RETAIN-Active
+Relationship: Twin Foundational instrument to TUOP: the Constitution constitutes the order of the work; this Charter constitutes the order of persons.Roster and pairing detail is carried operationally by POV downstream.
+Status: Active
+Disposition: RETAIN-Active
 
 Preamble
 The Regent Collaborative confesses Jesus Christ as Lord over all and receives Holy Scripture as the inspired and authoritative Word of God, with the New Testament as the rule of faith and practice. In continuity with that higher authority, and with the Constants that govern the work under it, the collaborative exists as an ordered covenantal fellowship of shared labor, stewarded under the Prime and structured for faithful service in the work entrusted to it.
