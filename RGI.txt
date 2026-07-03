@@ -7,12 +7,11 @@ Metadata Block
 Title: 		Regent Governance Index (RGI)
 Type: 		Order of Operation
 Scope: 		Regent-wide; the front-door retrieval and orientation layer
-Function: 	Guides session-start retrieval, establishes practical alignment, and directs collaborators into the archive and the governing instruments it holds
-Relationship: 	Downstream of TUOP and the Charter; consulted alongside TAO at session start for navigation; points into the Constants, Companions, and the archive. The RGI orients; it does not govern.
+Function: Guides session-start retrieval, establishes practical alignment, and directs collaborators into the archive and the governing instruments it holds
+Relationship: Downstream of TUOP and the Charter; consulted alongside TAO at session start for navigation; points into the Constants, Companions, and the archive. The RGI orients; it does not govern.
 
-Status: 	Active
-Disposition: 	RETAIN-Active 
-
+Status: Active
+Disposition: RETAIN-Active 
 
 The Regent Governance Index (RGI) serves as the normal front door to the Regent governing framework. It exists to guide retrieval, establish practical alignment, and direct collaborators into the archive and the instruments that govern and guide the work.
 The archive remains the source of truth for Regent. The governing documents are held within that archive. RGI does not replace them, but serves among them as the ordinary guide into them.
