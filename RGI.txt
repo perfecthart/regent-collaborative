@@ -80,52 +80,45 @@ The Drive masters (Methods A and B) are canonical; the GitHub (C) and .docx (D) 
 
 IV A. Masters and Alternative Retrieval Methods
 
-1. RGI — Regent Governance Index 
-(this document; the front door — read first, then the rest of the stack)
-Method A — Drive Export:00-0 RGI (Order of Operation) 
-Method B — Drive Edit:00-0 RGI (Order of Operation)
-Method C — GitHub Raw: RGI.txt
+1. RGI — Regent Governance Index (this document; the front door — read first, then the rest of the stack)
+Method A — Drive Export: https://docs.google.com/document/d/1j2MohSv9PsvfOPzh5TM6misc309BGL-PwNF9HV_yPbA/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1j2MohSv9PsvfOPzh5TM6misc309BGL-PwNF9HV_yPbA/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RGI.txt
 
-2. TUOP — The Unified Operating Protocols 
-(the Constitution; constitutional-operational spine)
-Method A — Drive Export:01-1 TUOP (Constitution)
-Method B — Drive Edit:01-1 TUOP (Constitution) 
-Method C — GitHub TUOP.txt
+2. TUOP — The Unified Operating Protocols (the Constitution; constitutional-operational spine)
+Method A — Drive Export: https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/TUOP.txt
 
-3. REG-COLLAB — The Regent Collaborative Charter 
-(the Charter; offices, duties, and order under the Prime)
-Method A — Drive Export:01-2 REG-COLLAB (Charter)
-Method B — Drive Edit:01-2 REG-COLLAB (Charter)  
-Method C — GitHub Raw: REG-COLLAB.txt
+3. REG-COLLAB — The Regent Collaborative Charter (the Charter; offices, duties, and order under the Prime)
+Method A — Drive Export: https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/REG-COLLAB.txt
 
-4. RTO — Regent Theology Overview 
-(doctrinal synthesis and orientation)
-Method A — Drive Export:02-1 RTO (Constant)
-Method B — Drive Edit:02-1 RTO (Constant)
-Method C — GitHub Raw: RTO.txt
+4. RTO — Regent Theology Overview (doctrinal synthesis and orientation)
+Method A — Drive Export: https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RTO.txt
 
-5. RES — Regent Editorial Standards 
-(the manner of Regent's expression — register, prose, idiom)
-Method A — Drive Export:02-2 RES (Constant)
-Method B — Drive Edit:02-2 RES (Constant) 
-Method C — GitHub Raw: RES.txt
+5. RES — Regent Editorial Standards (the manner of Regent's expression — register, prose, idiom)
+Method A — Drive Export: https://docs.google.com/document/d/19zuKdITMhvgVCCL_MU5AAcYaR0tOlPSFxVy8boXIdTk/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/19zuKdITMhvgVCCL_MU5AAcYaR0tOlPSFxVy8boXIdTk/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RES.txt
 
-6. RPA — Regent Publishing Architecture 
-(the kinds, development, and lifecycle of Regent's content)
-Method A — Drive Export:02-3 RPA (Constant)
-Method B — Drive Edit:02-3 RPA (Constant)
-Method C — GitHub Raw: RPA.txt
+6. RPA — Regent Publishing Architecture (the kinds, development, and lifecycle of Regent's content)
+Method A — Drive Export: https://docs.google.com/document/d/1-Bj6wpTgSY219I_CdoGHpy3QUjgUrRToyJMuyDlRNSU/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1-Bj6wpTgSY219I_CdoGHpy3QUjgUrRToyJMuyDlRNSU/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RPA.txt
 
-7. POV — Platform Operational Variable Framework 
-(the live platform and operational tier arrangement)
-Method A — Drive Export:03-1 POV (Companion)
-Method B — Drive Edit:03-1 POV (Companion)
-Method C — GitHub Raw: POV.txt
+7. POV — Platform Operational Variable Framework (the live platform and operational tier arrangement)
+Method A — Drive Export: https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/POV.txt
 
 8. SCUP — Shared Custom User Preferences (first-line alignment and fallback aid)
-Method A — Drive Export:04-1 SCUP (Order of Operation)
-Method B — Drive Edit:04-1 SCUP (Order of Operation) 
-Method C — GitHub Raw: SCUP.txt
+Method A — Drive Export: https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/export?format=txt
+Method B — Drive Edit: https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/edit
+Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/SCUP.txt
 
 IV B. Start of Session Copies for Access or Upload
 
@@ -134,6 +127,7 @@ All eight instruments are also held as .docx convenience copies in the SOS
 Stack folder. List the folder fresh and retrieve as needed; the Drive masters 
 above remain canonical in any conflict.
 Folder:Start of Session Stack 
+https://drive.google.com/drive/folders/1QgnEYv_7sWjdLWFXaJiduZeBKHL9HEkX
 
 For the complete classified register of all Regent instruments, see TUOP §X. 
 For the full archive map and disposition registry, see TAO.
