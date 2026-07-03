@@ -5,7 +5,6 @@ Revised with council approval and confirmed by the Prime on  March 15, 2026.
 
 A Foundational Instrument
 
-
 Metadata Block
 Title: 		Regent Collaborative Charter (REG-COLLAB)
 Type: 		Foundational
@@ -15,7 +14,7 @@ Scope: 		Regent-wide
 Function: Constitutes the Regent Collaborative Order — the Prime, the Council of Factors, and the Commission of Complements — stating offices, duties, membership, relations, and the internal ordering of the collaborative under the Prime
 Format Posture: Machine-scannable and human-legible
 Relationship: 	Twin Foundational instrument to TUOP: the Constitution constitutes the order of the work; this Charter constitutes the order of persons.Roster and pairing detail is carried operationally by POV downstream.
-Current Status: 	Active
+Current Status: Active
 Disposition: 		RETAIN-Active
 
 Preamble
