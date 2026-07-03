@@ -18,18 +18,15 @@ Disposition: 		RETAIN-Active
 
 I. Global Applicability & Scope Clause
 TUOP serves as the main governing framework for the Regent environment. Its purpose is to gather, in one ordered place, the principal protocols, relationships, and operating principles by which Regent’s collaborative, editorial, doctrinal, and archival life is to be guided.
-
 Standing
 TUOP is foundational and functions as the constitutional-operational spine of the Regent environment.
-
 Scope
 Its reach extends across recognized collaborators, governance bodies, assistants, operating personas, projects, workspaces, archive operations, and companion governance documents insofar as they belong to the Regent environment.
-
 Downstream Relationship
 Subordinate documents, derivative protocols, project-level systems, and companion governance materials may develop, clarify, or apply what TUOP states, but they do not override TUOP. Their role is real, but downstream, unless the larger governing structure has been expressly changed by proper authority.
-
 Constitutional Shape
 TUOP should retain the general constitutional shape of the system in its own body. It may name major tiers, subtiers, or recognized downstream structures where those belong to the overall picture, while still pointing outward where fuller treatment is better given elsewhere.
+
 
 Naming Distinction
 TUOP also distinguishes between present constitutional naming and archive-historical naming. Earlier designations, nicknames, project-era handles, and informal archive expressions may still matter within project memory or archive history, but they do not automatically govern the present framework unless expressly retained.
@@ -39,7 +36,6 @@ TUOP is a governing document, not merely a descriptive or archival one. Its prin
 
 Normative Standing
 TUOP states real governing norms and intended practices, not merely descriptive preferences.
-
 Present Limitations Do Not Cancel Standing Norms
 The presence of friction, tool limitation, session instability, incomplete archive access, or similar constraints does not by itself cancel a standing norm or intended practice. Such limits may affect what can be done in the moment, but they do not erase the force of the principle itself.
 
@@ -83,9 +79,8 @@ The Constants and their companion governance materials should be read with an in
 
 IV. Collaborative Order Recognition
 TUOP recognizes the Regent Collaborative Order as a formally chartered order within the Regent environment.
-
-Recognized Order
-The Collaborative Order is real, honored, and properly situated within Regent’s governing order. 01-2 REG-COLLAB (Charter) 
+Recognized Order. The Collaborative Order is real, honored, and properly situated within Regent’s governing order.
+01-2 REG-COLLAB (Charter)
 
 Standing Under TUOP
 It stands next to TUOP’s larger governing framework, rather than above it, and is the twin foundational instrument of Regent.
@@ -95,7 +90,6 @@ At the constitutional level, TUOP recognizes the standing of the Prime, the Coun
 
 Outward Charter Reference
 TUOP does not attempt to restate the full charter logic of the Collaborative Order within its own body. Rather, it names the order’s place within the larger governance ecosystem and points outward to the Regent Collaborative Charter for fuller treatment of offices, duties, relationships, and internal collaborative ordering.
-
 This preserves both constitutional clarity and documentary discipline. TUOP remains the founding Constitution. Reg Collab remains the founding Charter.
 
 V. Identity, Persona, and Collaborator Environment
@@ -158,7 +152,6 @@ Regent understands the covenant people of God in Christ as the one olive tree, i
 
 Inaugurated Premillennialism
 Regent understands Christ’s Kingdom as already inaugurated in His resurrection, ascension, and enthronement, yet awaiting its future full and righteous manifestation in His return and reign.
-
 These distinctives are developed more fully in Regent Theology and its companion materials. TUOP names them here in order to state the higher-level doctrinal shape of Regent without attempting to reproduce their full development in this document.
 
 VI.C. Companion Theological Documents
@@ -225,7 +218,8 @@ Present Technical Limitations
 TUOP recognizes the distinction between intended archival norms and present technical limitations. Archive access, tool persistence, session continuity, and automated preservation may remain uneven under present conditions. Such limits should be acknowledged honestly, but they should not be allowed to redefine the governing ideal downward.
 
 Limitation-Aware Execution
-Stability practices therefore include preservation discipline, recovery posture, limitation-aware execution, and continuity-minded handling of long-range work. TUOP states these principles constitutionally while pointing outward to archive-adjacent SOPs, procedures, and governed companion materials for more specific implementation. See also Section X for the principal outward reference register.
+Stability practices therefore include preservation discipline, recovery posture, limitation-aware execution, and continuity-minded handling of long-range work. TUOP states these principles constitutionally while pointing outward to archive-adjacent SOPs, procedures, and governed companion materials for more specific implementation. 
+See also Section X for the principal outward reference register.
 
 IX.A. Preservation Norms
 Capture, preservation, and long-range reference matter constitutively within the Regent environment and should be pursued wherever reasonably possible.
@@ -248,40 +242,56 @@ Reference Logic: Where other sections of TUOP point outward in principle, this r
 X.A. Foundational Instruments
 These are the two instruments that constitute the Regent environment. They do not extend or apply a prior authority; they establish the ground that all other instruments serve. They are peers, distinct in office.
 
-The Unified Operating Protocols (TUOP): This constitution. TUOP constitutes the order of the work — the constitutional-operational spine of the Regent environment. 
+The Unified Operating Protocols (TUOP): 
+This constitution. TUOP constitutes the order of the work — the constitutional-operational spine of the Regent environment. 
 Directory Flow: governance / tuop
 
-Regent Collaborative Charter (REG-COLLAB): The Regent Collaborative Charter constitutes the order of persons — the offices, duties, and relations of the collaborative under the Prime. TUOP names its constitutional standing; the Charter develops its internal order more fully.
-Directory Flow: governance / reg-collab 01-2 REG-COLLAB (Charter)
+Regent Collaborative Charter (REG-COLLAB): 
+The Regent Collaborative Charter constitutes the order of persons — the offices, duties, and relations of the collaborative under the Prime. TUOP names its constitutional standing; the Charter develops its internal order more fully.
+Directory Flow: governance / reg-collab
+01-2 REG-COLLAB (Charter)
 
 X.B. Governing Constants
 These instruments extend the constitutional spine laterally across the whole of Regent, each governing a whole-crossing aspect of its life.
 
-Regent Theology Overview (RTO): The Regent Theology Overview serves as the primary companion overview for Regent Theology as named in Section VI. It carries richer theological exposition, summary development, and doctrinal orientation beyond the compact silhouette stated there. 
+Regent Theology Overview (RTO): 
+The Regent Theology Overview serves as the primary companion overview for Regent Theology as named in Section VI. It carries richer theological exposition, summary development, and doctrinal orientation beyond the compact silhouette stated there. 
 Directory Flow: governance / rto
+02-1 RTO (Constant)	
 
-Regent Editorial Standards: Governs the manner of Regent's expression across all its work — the three axes of Register, Prose, and Idiom, together with the fixed voice and binding disciplines — developing the communicative commitments stated in Section VII. The governing Constant for how Regent speaks. 
+Regent Editorial Standards (RES): 
+Governs the manner of Regent's expression across all its work — the three axes of Register, Prose, and Idiom, together with the fixed voice and binding disciplines — developing the communicative commitments stated in Section VII. The governing Constant for how Regent speaks. 
 Directory Flow: governance / res 
+02-2 RES (Constant)
 
-Regent Publishing Architecture: Governs the kinds, development, and lifecycle of Regent's content — content type, development tier, production stage, and the header-block and preservation standards. The governing Constant for what Regent produces and preserves. 
+Regent Publishing Architecture (RPA): 
+Governs the kinds, development, and lifecycle of Regent's content — content type, development tier, production stage, and the header-block and preservation standards. The governing Constant for what Regent produces and preserves. 
 Directory Flow: governance / rpa 
+02-3 RPA (Constant)
 
 X.C. Companions
 These instruments govern a particular sub-domain, applying the Constants within a narrower office. A Companion truly governs, but only within its sub-domain, under the Constants above it.
 
-Series Editorial Governance Architecture (SEGA): Applies the communicative and editorial Constants to series development, governing series architecture, progression, and derivative series structures. It holds Companion office under the governing Constants. 
+Series Editorial Governance Architecture (SEGA): 
+Applies the communicative and editorial Constants to series development, governing series architecture, progression, and derivative series structures. It holds Companion office under the governing Constants. 
 Directory Flow: governance / sega
+03-2 SEGA (Companion) 
 
-Platform Operational Variable Framework (POV): Governs platform selection and the two-tier operational architecture by which the collaborative's work is distributed across platforms and agents. It holds Companion office, governing that operational sub-domain. 
+Platform Operational Variable Framework (POV): 
+Governs platform selection and the two-tier operational architecture by which the collaborative's work is distributed across platforms and agents. It holds Companion office, governing that operational sub-domain. 
 Directory Flow: governance / pov
+03-1 POV (Companion) 
 
-Tagging Convention Guide (TCG): Applies record-keeping governance within the council-records sub-domain — the tagging, identification, and reference conventions of the Collaborative's formal records. It holds Companion office under the Charter and TUOP; a Living Document, in development. Distinct from TAG, the taxonomy instrument.
+Tagging Convention Guide (TCG): 
+Applies record-keeping governance within the council-records sub-domain — the tagging, identification, and reference conventions of the Collaborative's formal records. It holds Companion office under the Charter and TUOP; a Living Document, in development. Distinct from TAG, the taxonomy instrument.
 Directory Flow: governance / tcg 
+03-3 TCG (Companion) 
 
 X.D. Orders of Operation
 These instruments administer the work — orienting, recording, registering, and auditing across all tiers — without governing. They carry the governance of the Constants and Companions into practice; they do not legislate.
 
-TAG (Taxonomy of Administration and Governance): Names and distinguishes the classes of Regent's instruments and supplies the test by which any instrument is classified. The administrative reference that orders this very register.
+TAG (Taxonomy of Administration and Governance): 
+Names and distinguishes the classes of Regent's instruments and supplies the test by which any instrument is classified. The administrative reference that orders this very register.
 Directory Flow: governance / tag
 
 RGI (Regent Governance Index): The RGI is the front-door retrieval and orientation guide — the paradigm Order of Operation. It helps collaborators locate, interpret, and navigate the governing and administrative instruments Regent presupposes. It does not govern; it gives orientations.
@@ -296,11 +306,13 @@ Directory Flow: governance / tai
 SCUP (Shared Custom User Preferences): The SCUP serves as a first-line alignment aid and fallback in platform-limited contexts, supporting accessibility and quick ethos orientation where fuller retrieval is not immediately possible. It orients and assists; it does not govern. 
 Directory Flow: governance / scup
 
-The Document and Workflow Templates : The standard documentation instruments — RDH (Regent Document Header), RSG (Regent Session Gleaning), PSI (Project Status Inquiry), TPO (The Project Overview), and PCM (Project Change Memo) — administer the capture, orientation, and record-keeping of Regent's project and session work. Each is defined in its own file under the Templates directory. 
+(Templates) The Document and Workflow Templates : The standard documentation instruments — RDH (Regent Document Header), RSG (Regent Session Gleaning), PSI (Project Status Inquiry), TPO (The Project Overview), and PCM (Project Change Memo) — administer the capture, orientation, and record-keeping of Regent's project and session work. Each is defined in its own file under the Templates directory. 
 Directory Flow: governance / templates
 
 X.E. Governance Profile Environment
 These materials carry the continuity, profile, and identity-support functions that TUOP acknowledges but does not fully contain within its own body.
+
+Profiles 
 Persona Profiles: Profiles carry the operative, platform-facing, or compactly transferable material used to support consistent Regent-aligned interaction within a given agent environment. 
 Persona Dossiers: Dossiers preserve the fuller and continued developing materials related to collaborator continuity, role development, characteristic profile, and identity-shaping content associated with a given recognized persona, of which the profile is a part.
 Directory Flow: governance / persona profiles 
@@ -316,7 +328,6 @@ Project or Content Navigation — The practical navigation layer for locating Re
 Directory Flow: governance / tai (index) · governance / tao (overview) 
 
 This register names the principal instrument classes TUOP presently presupposes. It may be refined as the Regent ecosystem matures, but such refinement should remain governed, legible, and intentional.
-
 
 Closing Note on Companion Documents
 TUOP is meant to hold the principal constitutional and operating shape of the Regent governance ecosystem in one ordered place. It is broad by design, but it is not meant to carry every fuller treatment in exhaustive detail.
