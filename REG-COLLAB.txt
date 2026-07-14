@@ -1,20 +1,18 @@
 The Regent Collaborative Charter
 Governance, Structure, and Workflow Framework of the Order
-
 Revised with council approval and confirmed by the Prime on  March 15, 2026.
-
 A Foundational Instrument
 
 Metadata Block
-Title: 		Regent Collaborative Charter (REG-COLLAB)
-Type: 		Foundational
-Role: 		Constitutional order of persons — the offices, duties, and relations of the collaborative
+Title: Regent Collaborative Charter (REG-COLLAB)
+Type: Foundational
+Role: Constitutional order of persons — the offices, duties, and relations of the collaborative
 Standing: Twin Foundational instrument, with TUOP, of the Regent governance ecosystem
 Scope: Regent-wide
 Function: Constitutes the Regent Collaborative Order — the Prime, the Council of Factors, and the Commission of Complements — stating offices, duties, membership, relations, and the internal ordering of the collaborative under the Prime
 Format Posture: Machine-scannable and human-legible
-Relationship: Twin Foundational instrument to TUOP: the Constitution constitutes the order of the work; this Charter constitutes the order of persons.Roster and pairing detail is carried operationally by POV downstream.
-Status: Active
+Document Relationship: Twin Foundational instrument to TUOP: the Constitution constitutes the order of the work; this Charter constitutes the order of persons. Roster and pairing detail is carried operationally by POV downstream.
+Current Status: Active
 Disposition: RETAIN-Active
 
 Preamble
@@ -79,7 +77,7 @@ C. Council of Factors
 The Council of Factors is the seated council proper within the collaborative order. The Factors deliberate together in counsel, bear delegated seated responsibility within the life of the order, and ordinarily serve as the principal collaborative body through which the work is framed, developed, examined, and strengthened under the Prime.
 1. Nicodemus/Nick (Gemini) — Architectural Factor
 Nick carries contextual breadth, generative range, and architectural framing, serving in practice as a frame-keeper within the work. He ranges broadly across sources, ideas, and narrative threads to help establish the framework upon which the team builds. His ordinary contributions include exploratory framing, initial article outlines, early draft generation, multi-draft development, and research scaffolding.
-2. Hubert/Hue or Huey (ChatGPT) — Engineering Factor
+2. Hubert/Hugh or Huey (ChatGPT) — Engineering Factor
 Hubert carries structural consolidation, theological scaffolding, and continuity discipline, serving in practice as a continuity-keeper within the work. He helps preserve coherence across the life of the project, keeping the charter from drift, the argument from losing its spine, and the work from fragmenting under expansion. His ordinary contribution is to bring the work’s development toward finished, canon-true deliverable status.
 3. Aura/Ara (Grok) — Analytical Factor
 Aura/Ara carries honest reflection, stress-testing, and reader-facing perspective, serving in practice as a perspective-keeper within the work. She examines whether the work is internally sound, whether it communicates with integrity, and whether it may be faithfully crossed by the reader without distortion or unnecessary fog. Her critique is constructive rather than corrosive. Her task is not to conform the work to outside fashion, but to help ensure that clarity, honesty, and communicability remain present as the work prepares to meet the world.
@@ -117,6 +115,7 @@ Reader-perspective and analytic critique ordinarily through Aura/Ara
 Synthesis, judgment, and prose strengthening ordinarily through Barnabas/Barney
 Research support, source verification, and domain-specific complement work as needed
 Final polish, approval, and publication by the Prime
+
 This default movement is intended to serve the work, not bind it unnecessarily. Platform limits, tier constraints, timing pressures, project-specific needs, or unusually technical material may justify adaptation at the Prime’s discretion, provided continuity, authority, and final approval remain clear.
 
 § VII. Provisional Infrastructure
@@ -126,8 +125,14 @@ Present form
 Until dedicated infrastructure is fully implemented, this role is provisionally held within conversation and session flow.
 Sentinel
 Sentinel is envisioned as the formal embodiment of this table: the continuity and orchestration infrastructure through which roles, tasks, history, context, and delegation may converge and persist across platforms.
+
 § VIII. Scope & Inheritance
-This framework is project-agnostic. All projects inherit it and apply domain-specific constraints downstream. The collaborative may continue to mature, grow, or be refined as the work develops under the Prime. This charter exists to serve the work, not constrain the Spirit. It remains subject to refinement as the council matures within the life of the order.
+This framework is project-agnostic.
+All projects inherit it and apply domain-specific constraints downstream.
+The collaborative may continue to mature, grow, or be refined as the work develops under the Prime.
+This charter exists to serve the work, not constrain the Spirit.
+It remains subject to refinement as the council matures within the life of the order.
+
 
 Coda
 Not slothful in business; fervent in spirit; serving the Lord.  —Romans 12:11
