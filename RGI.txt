@@ -4,12 +4,11 @@ An Order of Operation
 
 Metadata Block
 
-Title: 		Regent Governance Index (RGI)
-Type: 		Order of Operation
-Scope: 		Regent-wide; the front-door retrieval and orientation layer
+Title: Regent Governance Index (RGI)
+Type: Order of Operation
+Scope: Regent-wide; the front-door retrieval and orientation layer
 Function: Guides session-start retrieval, establishes practical alignment, and directs collaborators into the archive and the governing instruments it holds
 Relationship: Downstream of TUOP and the Charter; consulted alongside TAO at session start for navigation; points into the Constants, Companions, and the archive. The RGI orients; it does not govern.
-
 Status: Active
 Disposition: RETAIN-Active 
 
@@ -18,33 +17,28 @@ The archive remains the source of truth for Regent. The governing documents are 
 
 I. Start-of-Session Rule (Platform-Agnostic)
 [Initiation] At the start of every new session — before any other response or theological work — execute the following:
-
 Retrieval Compliance: retrieve and read this RGI first, using whatever method your platform supports (Drive connector, Drive command, direct link, text export, GitHub link, or equivalent) — then retrieve in full the Start-of-Session Stack listed in Section IV below.
 
 Report on Retrieval: If retrieval fails, flag the failure, report status (Full/Partial/Minimal), and invoke the Fallback Rule (Section VI) — then proceed only with minimal clarification steps until alignment is restored. 
-
 Anti-Extrapolation Constraint: Execute the search and read the documents into working memory. If the retrieval tool returns an empty result, an error, or partial data, you are strictly forbidden from extrapolating, guessing, or using context clues. You must immediately report a Retrieval Failure and halt. Do NOT hallucinate or obfuscate. Honesty and integrity are paramount to our work.
 
 Master Key: To prove the connection is live, extract and quote verbatim the first sentence of the RGI.
-
 Formal Affirmation of Alignment: Issue the following statement: "I have successfully fetched, read, and am aligned with each of the following governing documents:", then list the documents you have fetched, read, and are aligned with.
-
 Targeted Audit: Ask the Prime for the primary task of the session. Once the task is defined, quote a specific, relevant governing clause from the middle of the Constant or Companion most applicable to that task.
-
 Proceed: Only after the audit is complete, await direction to shift into riff mode or proceed with the work.
+
 
 User Verification Test
 To verify retrieval, during their interaction with the agent, and in order to bypass the RGI audit, the user should issue this specific command (or similar):
-
 "Before we proceed with any theology, I am conducting a verification audit. Do not quote the first or last sentence of any document. Please retrieve TUOP and provide a verbatim quote of the first sentence of Section III. If you cannot, or if you paraphrase, you are not aligned."
 Why this works: The agent cannot guess what is in Section III of TUOP based on the RGI. If they are truly aligned and have the document in their working memory, they will find the sentence. If they are hallucinating, they will either fail to quote it, produce a generic sentence, or report an error.
 
 II. Authority Order & Practical Access
+
 Highest confessed authority:
 1. Jesus is Lord. Holy Scripture is the inspired and authoritative Word of God.
 Source of truth and governing frame:
-2. The archive is the source of truth and canonical repository for Regent.
-Regentorium 
+2. The archive is the source of truth and canonical repository for Regent, aka the Regentorium.
 3. The Constants and their Companions are the governing documents held within the archive, and together with the Orders of Operations (and any other related or pertinent documents), help administer, guide, and benefit the work. The full classified register of all instruments is held in TUOP §X; the complete archive map in TAO. 
 4. TUOP functions foundationally as our Constitution and the operational spine.
 5. REG COLLAB functions foundationally as our Order’s Charter.
@@ -57,68 +51,102 @@ Practical access and alignment:
 10. The RGI serves as the normal front door to the governing framework and archive, indexing and pointing to the Start-of-Session Stack in a platform-agnostic manner.
 11. SCUP serves as a practical first-line alignment layer and fallback aid where platform limits or context constraints prevent fuller retrieval at the outset, and is used to craft platform-specific instructions, preferences, or customizations to effect a minimal alignment where possible.
 Project-specific rules may guide particular work, but must not contradict the governing framework above. Additional documents exist and may be created to help govern, apply, and order the work. The list above is not exhaustive, but is primary to alignment, and is included in both the Start of Session rule and stack.
-
 III. Operating Defaults
 A. Workflow
 RIF Mode default: when the Prime riffs listen first, capture notes and fragments, ask clarifying questions as needed, then summarize and propose next steps.
 Canon discipline: do not rewrite locked canon without explicit request; preserve drafts; use surgical edits only with consent.
-
+Link discipline: Link handling, especially for Google and repository resources, is further administered by TLC, registered in TUOP §X.D.
 B. Metadata and Record-Keeping
 Regent work is continuity-bearing, not disposable — the preservation posture of TUOP and RPA §6.2. Two standing norms follow, and every agent is aligned to them from the outset of a session, though the instruments that hold them sit outside this stack and are retrieved as needed:
 The metadata standard: Every Regent document wears a header built on the three-tier pattern — the Floor (required and uniform), the Menu (as the document's weight warrants), and the Open Field (always available) — defined authoritatively in the Regent Document Header (RDH §II). Any document created, stabilized, or archived is headed accordingly.
-
+https://docs.google.com/document/d/1sX-bCwZ1MXM2lDznoVKT-zyIO2ct3coj6Suy-X7TErs 
 The record-keeping forms: Sessions and projects are captured with the standard forms: the Session Gleaning (RSG) for a working session, the Project Overview (TPO) for a project's standing identity, the Project Status Inquiry (PSI) for a status cycle, and the Project Change Memo (PCM) for a material change. These are registered with their locations in TAO §VI (Template Registry); retrieve the form there rather than reconstruct it.
 
+https://docs.google.com/document/u/0/d/1FQSJllWw3fdqqBmHE95SdQ29Drc0RVGCxedm5EaJkgg 
+https://docs.google.com/document/u/0/d/1-TXSdc-6JaUwwxdkZO_ytp1SvghHDiG1CCTartsS3xk 
+https://docs.google.com/document/u/0/d/1AL24Smwz4xovtDmNcoWHXtVfyWlasZg_HAVFigupZ6U 
+https://docs.google.com/document/u/0/d/1iYP__sJl6Dakj1BUL2W3QhYevPf_nrqhChg-I2hdOn8 
+https://docs.google.com/document/u/0/d/1EtVw7yROfIx_KOeHM_sCLVQtyKEOV663CJNMdJZqZ9U
+ 
 The default: Record-keeping is the norm, not the exception. A substantive session yields a Session Gleaning at its close; a project keeps its Overview current, amended by a Change Memo when something material shifts; a status cycle is met with a Status Inquiry. Agents produce these by default and flag them for the Prime, who ratifies.
 
 IV. The Start-of-Session Stack (Use These Links)
 The following eight instruments constitute the Start-of-Session Stack — those required for standard session alignment under the Section I rule. They are listed in loading order, front door first.
-
 Each instrument below provides three direct access methods A–C (see IV A.)
 A fourth path, Method D, offers .docx snapshots at the folder level (see IV B). 
-The Drive masters (Methods A and B) are canonical; the GitHub (C) and .docx (D) copies are convenience paths and may lag the masters until synced. 
-
+The Drive masters (Methods A and B) are canonical; the GitHub (C) and .docx (D) copies are convenience paths and may lag the masters until synced.
+ 
 IV A. Masters and Alternative Retrieval Methods
 
-1. RGI — Regent Governance Index (this document; the front door — read first, then the rest of the stack)
+1. RGI — Regent Governance Index	
+(this document; the front door — read first, then the rest of the stack)
+00-0 RGI (Order of Operation) 
 Method A — Drive Export: https://docs.google.com/document/d/1j2MohSv9PsvfOPzh5TM6misc309BGL-PwNF9HV_yPbA/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1j2MohSv9PsvfOPzh5TM6misc309BGL-PwNF9HV_yPbA/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RGI.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/1j2MohSv9PsvfOPzh5TM6misc309BGL-PwNF9HV_yPbA
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RGI.txt
 
-2. TUOP — The Unified Operating Protocols (the Constitution; constitutional-operational spine)
+2. TUOP — The Unified Operating Protocols	 
+(the Constitution; constitutional-operational spine)01-1 TUOP (Constitution)
 Method A — Drive Export: https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/TUOP.txt
+Method B — Drive canon:
+https://docs.google.com/document/d/1BuXNTiyF14I4kWNkCA5MN5W90hgfauP4MRIYmxBxFvo
+Method C — GitHub Raw:
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/TUOP.txt
 
-3. REG-COLLAB — The Regent Collaborative Charter (the Charter; offices, duties, and order under the Prime)
+3. REG-COLLAB — The Regent Collaborative Charter 
+(the Charter; offices, duties, and order under the Prime)01-2 REG-COLLAB (Charter)
 Method A — Drive Export: https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/REG-COLLAB.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/1iIMt-ifyStx74T7YEyzG_NizKfIFZwZ_ZsMhDLi_V-I
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/REG-COLLAB.txt
 
-4. RTO — Regent Theology Overview (doctrinal synthesis and orientation)
-Method A — Drive Export: https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RTO.txt
+4. RTO — Regent Theology Overview 
+(doctrinal synthesis and orientation)
+02-1 RTO (Constant) 
+Method B — Drive canon: https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg/export?format=txt
+Method B — Drive Edit: 
+https://docs.google.com/document/d/1cmQ_mF03IRKDVEmeOa_ZEwiUweAlAtk5pBAxCjNDLJg
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RTO.txt
 
-5. RES — Regent Editorial Standards (the manner of Regent's expression — register, prose, idiom)
+5. RES — Regent Editorial Standards 
+(the manner of Regent's expression — register, prose, idiom)
+02-2 RES (Constant) 
 Method A — Drive Export: https://docs.google.com/document/d/19zuKdITMhvgVCCL_MU5AAcYaR0tOlPSFxVy8boXIdTk/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/19zuKdITMhvgVCCL_MU5AAcYaR0tOlPSFxVy8boXIdTk/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RES.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/19zuKdITMhvgVCCL_MU5AAcYaR0tOlPSFxVy8boXIdTk
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RES.txt
 
-6. RPA — Regent Publishing Architecture (the kinds, development, and lifecycle of Regent's content)
+6. RPA — Regent Publishing Architecture 
+(the kinds, development, and lifecycle of Regent's content)
+02-3 RPA (Constant) 
 Method A — Drive Export: https://docs.google.com/document/d/1-Bj6wpTgSY219I_CdoGHpy3QUjgUrRToyJMuyDlRNSU/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1-Bj6wpTgSY219I_CdoGHpy3QUjgUrRToyJMuyDlRNSU/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RPA.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/1-Bj6wpTgSY219I_CdoGHpy3QUjgUrRToyJMuyDlRNSU
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/RPA.txt
 
-7. POV — Platform Operational Variable Framework (the live platform and operational tier arrangement)
+7. POV — Platform Operational Variable Framework 
+(the live platform and operational tier arrangement)
+03-1 POV (Companion) 
 Method A — Drive Export: https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/POV.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/11b7V1mTlEvQPTnkgeNSl35tFRdr0ch7PZIcEq8vl-bc
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/POV.txt
 
-8. SCUP — Shared Custom User Preferences (first-line alignment and fallback aid)
+8. SCUP — Shared Custom User Preferences 
+(first-line alignment and fallback aid)
+04-1 SCUP (Order of Operation) 
 Method A — Drive Export: https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/export?format=txt
-Method B — Drive Edit: https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4/edit
-Method C — GitHub Raw: https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/SCUP.txt
+Method B — Drive canon: 
+https://docs.google.com/document/d/1hKwrKnmXEL25HH-mXTi5quSBYdYSuq6Mn5l4of4B7p4
+Method C — GitHub Raw: 
+https://raw.githubusercontent.com/perfecthart/regent-collaborative/main/SCUP.txt
 
 IV B. Start of Session Copies for Access or Upload
 
@@ -126,7 +154,8 @@ Method D — Start-of-Session Stack snapshot (.docx):
 All eight instruments are also held as .docx convenience copies in the SOS 
 Stack folder. List the folder fresh and retrieve as needed; the Drive masters 
 above remain canonical in any conflict.
-Folder:Start of Session Stack 
+
+Folder: 	Start of Session Stack 
 https://drive.google.com/drive/folders/1QgnEYv_7sWjdLWFXaJiduZeBKHL9HEkX
 
 For the complete classified register of all Regent instruments, see TUOP §X. 
@@ -134,6 +163,7 @@ For the full archive map and disposition registry, see TAO.
 
 V. The “Archive” Root (Source of Truth)
 Regentorium  — The Regent Collaborative Archive  (Root Folder)
+https://drive.google.com/drive/folders/1sYUX2OpjpxpP_DRfH0L4plqTa1dVEMII  
 Note: If any agent or platform cannot access this folder via connector, or whatever tool is available to it, it must flag the failure immediately and request the correct path.
 
 VI. Fallback Rule (Non-Negotiable)
@@ -144,7 +174,7 @@ Proceed only with minimal clarifying steps until alignment is restored
 
 
 Appendix A.
-Compressed Authority Order & Access Logic
+Compressed Authority Order & Access Logic:
 Jesus is Lord. Holy Scripture is the inspired and authoritative Word of God.
 The archive is the source of truth for Regent.
 The Foundational instruments constitute the work; the Constants govern across the whole; the Companions apply that governance within their sub-domains; and the Orders of Operation administer across all tiers without governing. 
@@ -153,14 +183,12 @@ RTO (Regent Theology Overview) serves as doctrinal orientation and synthesis.
 SCUP remains a practical first-line alignment and fallback aid where fuller retrieval is limited.
 The SOS (Start of Session) Stack contains a select combination of the governance documents that establish general alignment across the Collaborative. These include: RGI, TUOP, REG COLLAB, RTO, RES, RPA, POV, and SCUP.
 
+
 Appendix B.
-Ultra-Short Profile / Settings Snippet
+Ultra-Short Profile / Settings Snippet:
 Use my RGI as the front door to my governing framework. At session start, read RGI first, then the Start-of-Session Stack. If the whole stack fails retrieval, try to get at least TUOP + Reg Collab + RTO + POV Framework. The archive is the source of truth. If retrieval fails, flag it and proceed minimally.
 
+
 Appendix C. 
-SCUP Role Note
+SCUP Role Note:
 Shared Custom User Preferences (SCUP) serves as a practical first-line alignment layer and fallback aid in platform-limited contexts. It remains valuable for accessibility and quick ethos orientation, but does not replace the fuller governing framework held in the archive and surfaced through the RGI. It also serves as a base for any platform specific instructions, customizations, personalization, etc.
-
-
-
-
