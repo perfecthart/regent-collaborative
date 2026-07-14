@@ -1,16 +1,15 @@
 Regent Editorial Standards
 The Manner of Regent's Expression
-
 A Governing Constant
 
 Metadata Block
-Title: 		Regent Editorial Standards 
-Type: 		Constant 
-Role: 		Lateral extension of TUOP into governance of communicative expression  
+Title: Regent Editorial Standards 
+Type: Constant 
+Role: Lateral extension of TUOP into governance of communicative expression  
 Standing: Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the editorial domain  
 Scope: Regent-wide. Governs the manner of expression in all Regent communication, internal and external, published and unpublished.  
 Function: States and develops the three axes of Regent expression — Register, Prose, and Idiom — together with the fixed voice, the binding disciplines, and the mechanical standards that order Regent's manner of speech.   
-Relationship: Extends the TUOP Communicative Identity & Editorial Standing section (TUOP §VII) laterally into full governing form. Governs SEGA and other series or domain-specific editorial companions downstream.
+Document Relationship: 	Extends the TUOP Communicative Identity & Editorial Standing section (TUOP §VII) laterally into full governing form. Governs SEGA and other series or domain-specific editorial companions downstream.
 Co- Constant: Regent Publishing Architecture (RPA – governs the kinds, development, and lifecycle of content — the what; this document governs the how). 
 Current Status: Active. A floor, not a ceiling.
 Disposition: RETAIN-Active 
@@ -25,51 +24,37 @@ The governing image: confession is the vessel and does not flex; expression is w
 
 §2. The Fixed Center These Standards Serve
 The axes flex; the following does not. It is stated here only to keep the boundary bright. Its full constitutional statement belongs to the TUOP Communicative Identity section; this is its working restatement.
-
 §2.1 Voice (always present)
 Regent maintains one recognizable voice across all its work: a reverent attentiveness toward truth, carried in measured and thoughtful expression, joined to a settled courtesy — brotherly and neighborly regard, deference and considered care, the discipline of politeness that nonetheless speaks plainly and does not evade. This voice is named as character and is to be carried by formation rather than imitation. It is not a regional manner; it is a disposition of reverence and courtesy that survives every register, prose, and idiom.
-
 §2.2 The binding disciplines (always in force)
 Certain disciplines of speech bind Regent everywhere and do not flex with audience: Regent is truthful, never dishonest in its handling of evidence or argument; reverent, never vulgar or profane; charitable, never corrosive even in disagreement. These are a stated floor — the conduct Regent keeps — because the collaborative will grow, and what may be modeled among a few known collaborators must be stated for the many not yet known.
 
-
 §3. Register — Altitude and Facing
 Register answers who the work is for, at what height, and facing which way. Each register carries a facing: outward, toward the reader and the world; or inward, toward the council and the collaborative. Facing is what allows an internal register to stand honestly beside the public ones without being mistaken for publication.
-
 Outward-facing registers
-
 Proclamation
 The high register — sermonic, theological, literary, condensed and weighty. It does not so much explain as show, trusting the truth to carry its own force. The register of the flagship standalone essay. It reaches for elevation where truth is served by it, bearing meaning compressed and cadence measured, the weight of the matter left to do its own work.
-
 Formation
 The teaching register, and the ordinary register of series work. Pastoral, accessible, capable of real depth without becoming academic. It walks beside the reader rather than above. Where Proclamation shows, Formation explains — patiently, plainly, as a form of care.
-
 Scholarly
 The rigorous register — analytical, citation-aware, exegetically and lexically careful. Theologically robust without being needlessly heavy, yet able to be carried to full academic rigor where a work ascends toward dissertation-grade treatment. It argues in the open, shows its sources, and earns its conclusions in order.
-
 Inward-facing register
-
 Porch
 The relational register — peer-to-peer, dialogical, exploratory. The voice of council deliberation and of the working conversation through which the collaborative thinks. It can go deep without becoming formal. Porch is internal by nature: it is where the work is discovered and discerned, not where it is delivered. It carries the courtesy strand of the voice most visibly. The discipline is simply to know when one is on the porch and when one has stepped to the pulpit, and not to publish the porch unrevised.
 
 §4. Prose — The Manner of the Sentences
 Prose answers how the sentences move. It is independent of register: a Scholarly work may run literary or analytical and remain Scholarly; a Formation work may run literary or modern and remain Formation. These four are architectures available to every collaborator; the manner is a property of the writing, not the possession of any writer. Where a collaborator inclines naturally toward one manner, that inclination is a matter for the Charter, not for this Constant.
-
 Literary
 Reflective, cadenced, measured. Sentences unfold with deliberation; rhythm and weight carry as much as information. The prose of elevation and of the flagship; it rewards rereading and lets meaning accumulate.
-
 Modern
 Direct, brisk, segmented. Shorter movements and forward momentum, meeting a contemporary reader where attention is briefer — well suited to short-form and outward, broader-audience work. Clean and immediate without being shallow.
-
 Expository
 Ordered, explanatory, pedagogical. Lays a matter out plainly, builds the scaffold, teaches. Strong at structure and the clarity of sequence; the prose that makes a complex thing legible step by step.
-
 Analytical
 Compressed conceptual flow. Carries heavy argumentative or exegetical load in tight space — precise, rigorous, demanding of the reader. The prose of the crux and the close-worked argument. (Named analytical rather than academic deliberately: academic would name a register, blurring this axis; analytical names the manner and keeps the axes independent.)
 
 §5. Idiom — The Native Character of a Field
 Idiom answers what world the speech operates in — the native character a field of labor draws into the writing. It is neither audience altitude (Register) nor sentence-manner (Prose); it is the vocabulary, posture, and conventions a subject brings with it. Idiom is the optional axis: named where it bears, marked otherwise where it does not — but never left blank.
-
 §5.1 The two-layer shape
 Idioms are not a flat list of equals. Theological is the near-constant substrate — nearly all Regent work is theological at root — and so it ordinarily rests underneath rather than being tagged as a specialty. The specialties ride upon that substrate:
 Ecclesiastical — church order, polity, ordinance, ministry.
@@ -80,13 +65,10 @@ Political — political realities addressed from the Regent worldview (not parti
 Narrative — fictional and world-building work.
 Textual / Translation — translation, lexical, and text-critical work.
 Others may be recognized as the work requires. This is a floor.
-
 §5.2 The stacking rule
 Idiom is the one axis that stacks. Where a work genuinely straddles two worlds, it carries a dominant and a secondary idiom. A work on the Christian roots of American order is historical-political on its surface and theological at its ground — honestly named Historical-Political (dominant), Theological (substrate). Confessional work touching church structure may read Confessional (dominant), Ecclesiastical (secondary). Register and Prose do not stack; their power is in choosing one. Idiom stacks because fields of labor genuinely overlap.
-
 §5.3 Theological as substrate
 Because nearly all Regent work is theological at root, the common idiom already carries an assumed theological resonance; theological is therefore not normally tagged as a specialty. It is named explicitly only when it becomes the operative ground of a specialty — most visibly where a historical or political matter is being argued theologically rather than rested upon. Should explicit tagging prove ubiquitous in practice, it is to be dropped as redundant, the assumed substrate having already done the work.
-
 §5.4 The empty-slot discipline
 The idiom field is never left blank. Where no specialty bears, it takes one of two values, and the choice itself records a judgment:
 NA — considered; idiom does not apply here as a useful axis.
@@ -106,21 +88,21 @@ KJV is the default and requires no tag.
 MSB (Majority Standard Bible) is the second default and is tagged (MSB).
 All other versions are tagged (e.g., NASB, ESV, NLT).
 Every quotation carries a (Book Chapter:Verse) citation.
-
 Punctuation and mechanics
 The Oxford comma is used.
 One space follows a period.
 American-style punctuation: commas and periods fall inside quotation marks.
+Text Link Canonicalization (TLC)
+https://docs.google.com/document/d/1pkWfVW6_FRZod8aeWs_M5fV0P9Wm4SRbNoBKl0G00-8/  
+Link and URL handling is administered by the TLC Order of Operation, under this Constant.
 
 §8. The Content Header Block
 Every Regent artifact wears a front-matter header that orients any reader or collaborator — human or agent — to what the work is and how it is to be handled. It travels with the work and matures with it. Two layers grow at different rates. (Its full specification, including content type, tier, and stage, belongs to Publishing Architecture [RPA §5]; the underlying metadata pattern — Floor, Menu, and Open Field — and the rule of the answered field are held in the Regent Document Header [RDH §II]. Named here is the editorial portion. )
-
 Editorial fields (this Constant's portion)
 Register — one value (Proclamation / Formation / Scholarly / Porch).
 Prose — one value (Literary / Modern / Expository / Analytical).
 Idiom — dominant, optional secondary, or NA / common.
 Voice — Reverent Revelation (constant; named for orientation).
-
 Controlled vocabulary
 Each canonical taxonomy term lives in exactly one field, with a short plain-language gloss. A descriptive field never reuses a canonical tag. No field is left blank; NA is a valid, considered answer.
 
