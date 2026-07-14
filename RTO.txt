@@ -2,14 +2,14 @@ Regent Theology Overview (RTO)
 Establishing alignment via Doctrinal Orientation, Distinctives, and PositionsA Governing Constant
 
 Metadata Block
-Title: 	Regent Theology Overview (RTO)
-Type: 	Constant
-Role: 	Lateral extension of the TUOP spine into full doctrinal orientation and synthesis
+Title: Regent Theology Overview (RTO)
+Type: Constant
+Role: Lateral extension of the TUOP spine into full doctrinal orientation and synthesis
 Standing: Governing Constant within the Regent governance ecosystem; co-extensive with TUOP across the doctrinal domain
 Scope: Regent-wide. Governs the doctrinal orientation of all Regent work — the theological silhouette every piece inhabits.
 Function: States and develops Regent Theology in overview — the core confession, the higher-level distinctives (Recursive Narrative Covenantalism, Regency Restored, Kainanthrōpōsis, Engrafted Identity, Inaugurated Premillennialism), and their doctrinal synthesis — beyond the compact silhouette of TUOP §VI
-Relationship: Extends the TUOP Doctrinal Alignment section (TUOP §VI) laterally into full governing form. The doctrinal Constant, peer to the editorial and publishing Constants (RES, RPA), each governing its own whole-crossing domain.
-Status: Active (formerly "Functional Provisional Canon Locked"; normalized by governed update)
+Relationship: 	Extends the TUOP Doctrinal Alignment section (TUOP §VI) laterally into full governing form. The doctrinal Constant, peer to the editorial and publishing Constants (RES, RPA), each governing its own whole-crossing domain.
+Status: Active 
 Disposition: RETAIN-Active
 
 § I. Foundational Premise  
@@ -19,13 +19,12 @@ In short: God created us to reign with Him; we fell into estrangement and exile;
 § II. Governing Frameworks 
 1. Scripture  
 The Bible is the word of God: the 66-book canon, inspired and authoritative, inerrant in the autographs. The New Testament serves as the rule of faith & practice and is the apostolic deposit. 
-KJV is the default version used in content currently (no tag needed). 
-The received word via the Apostolic stream of the Old Testament and the Apostolic deposit of the New Testament (simply referenced more or less as LXX & Byzantine) are the accepted standard and hopeful outcome of TRW (The Received Word), a Bible translation project of Regent Theology. 
-
-2. Hermeneutics — Recursive Narrative Covenantalism (RNC)  
+KJV is the default version used in content currently (no tag needed).  The received word via the Apostolic stream of the Old Testament and the Apostolic deposit of the New Testament (simply referenced more or less as LXX & Byzantine) are the accepted standard and hopeful outcome of TRW (The Received Word), a Bible translation project of Regent Theology. 
+2. Hermeneutics
+Recursive Narrative Covenantalism (RNC)  
 Scripture is one God-authored covenantal narrative that unfolds through recurring, escalating covenant cycles (Adam → Noah → Abraham → Israel → David → Christ → Church → Consummation). Each cycle recapitulates the previous while advancing the story; fulfillment in Christ transfigures rather than abolishes what came before. (Luke 24:27, 44)  Biblical theology leads to systematic theology in this paradigm.
-
-3. Kingdom & Eschatology — Inaugurated Premillennialism (IPM)  
+3. Kingdom & Eschatology
+Inaugurated Premillennialism (IPM)  
 Christ’s reign is inaugurated and unfolds in three phases: Initialized (in His resurrection, ascension, and enthronement), Realized (spiritual reign now in believers, with AD 70 as covenant vindication and end of the initialized phase), and Actualized (at His bodily return, a literal millennial reign on earth, followed by final judgment and new creation). One Parousia, two resurrections, one people of God in Christ.
 
 § III. Core Doctrinal Categories  
@@ -55,8 +54,84 @@ Creation ex nihilo in six literal days; young earth; historical Adam; global flo
 4. Illuminating Grace: Enables genuine response without coercion. The Grace that saves illuminates the lost and draws them to faith and repentance by the Spirit through the Gospel, which is the power of God unto salvation.
 5. Already / Not Yet: We live in the overlap of the ages. The New Creation is breaking into the present world through us, by the Spirit, in Christ whose reign is inaugurated and whose kingdom is expanding through the gospel to the nations.
 
-** Scripture anchors to be added in future refinement **
+§ V. Scripture Anchors (Survey)
+The distinctive themes above are rooted in the whole counsel of God. The following anchors are exemplary, not exhaustive; they serve as a survey map of the doctrinal landscape Regent Theology inhabits.
+1. Regency Restored
+Creation mandate and human regency:
+Genesis 1:26–28 — Image, likeness, dominion, and stewardship entrusted to humanity.
+Psalm 8 — Humanity crowned with glory and honour; all things under his feet, typologically fulfilled in Christ.
+Christ's enthronement and shared reign:
+Daniel 7:13–14 — Son of man receiving dominion, glory, and an everlasting kingdom.
+Romans 5:17 — Those who receive abundance of grace and the gift of righteousness "shall reign in life by one, Jesus Christ."
+Ephesians 2:4–7 — Dead in sins, quickened, raised, and seated together with Christ in heavenly places.
+Revelation 5:9–10 — Redeemed made kings and priests; "we shall reign on the earth."
+2. Recursive Narrative Covenantalism (RNC)
+Initial promise and seed conflict:
+Genesis 3:15 — Enmity between the serpent's seed and the woman's seed; bruising/crushing of the serpent's head anticipated in Christ.
+Major covenant cycles:
+Genesis 12:1–3 — Abrahamic covenant: land, seed, blessing to all families of the earth.
+2 Samuel 7:12–16 — Davidic covenant: seed, house, kingdom, everlasting throne, filial language.
+Jeremiah 31:31–34 — New covenant promise: law written on hearts, relational knowledge, forgiven iniquity.
+Christocentric fulfillment and covenant transition:
+Luke 24:27, 44 — Christ expounds "in all the scriptures the things concerning himself"; Law, Prophets, and Psalms fulfilled in Him.
+Hebrews 8–10 — Christ as mediator of a better covenant; Jeremiah 31 cited; once-for-all sacrifice; inaugurated new covenant and priesthood.
+2 Corinthians 1:20 — "All the promises of God in him are yea, and in him Amen, unto the glory of God by us" — the manifold recapitulation and telos gathered into one.
+3. Inaugurated Premillennialism (IPM)
+Initialized phase — enthronement and Spirit outpouring:
+Acts 2:29–36 — Davidic promise fulfilled; Christ raised, exalted at God's right hand, seated on David's throne, pouring out the Holy Ghost.
+Realized phase — present reign and inward kingdom:
+1 Corinthians 15:20–28 — Christ as firstfruits; ordered resurrection; "he must reign, till he hath put all enemies under his feet," with death destroyed last.
+Luke 17:20–21 — Kingdom of God comes not with observation; "behold, the kingdom of God is within you."
+Romans 14:17 — Kingdom of God defined as "not meat and drink; but righteousness, and peace, and joy in the Holy Ghost."
+Actualized phase — inheritance and millennial reign:
+Matthew 25:34 — "Inherit the kingdom prepared for you from the foundation of the world."
+Revelation 20:1–6 — Binding of Satan; first resurrection; saints as priests of God and of Christ reigning with Him a thousand years.
+Covenant vindication and transition (Initialized to Realized):
+Matthew 24; Luke 21:20–24; Hebrews 8:13 — Judgment on the old order (Temple, Mosaic system) as covenant vindication, closing the Initialized phase and fully ushering in the Realized phase.
+4. Estrangement, Exile, and Illuminating Grace
+Origin and nature of estrangement:
+Genesis 2:16–17 — Generous command and prohibition; "in the day that thou eatest thereof thou shalt surely die" (the Hebrew "die die" intensifying certainty).
+Isaiah 59:1–2 — Iniquities separate between you and your God; sins hide His face so He will not hear.
+Corporate and personal estrangement:
+Romans 5:18–19 — By one man's offense, judgment and condemnation upon all; by one man's disobedience, many made sinners — a condition inherited, not a guilt imputed; by one man's obedience, many made righteous.
+Romans 3:23 — "For all have sinned, and come short of the glory of God."
+Romans 1:18–32 — Wrath revealed; suppression of truth; God giving them up/over to uncleanness and a reprobate mind.
+Love, condemnation, and love of darkness:
+John 3:3–21 — Need for new birth; God's love for the world; "condemned already" apart from faith; light come; men loving darkness rather than light because their deeds are evil.
+Illuminating grace:
+Titus 2:11–14 — Grace of God that brings salvation hath appeared to all men, teaching us to deny ungodliness, live soberly, righteously, godly, looking for the blessed hope; redeeming and purifying a peculiar people zealous of good works.
+2 Corinthians 4:4–6 — Minds of unbelievers blinded by the god of this world so they cannot see the light of the glorious gospel of Christ; God shines in hearts to give the light of the knowledge of His glory in the face of Jesus Christ.
+5. Kainanthroposis 
+(New Humanity / New Man) and Vital Union
+New Humanity in Christ:
+Ephesians 2:4–7 — Dead in sins; quickened together with Christ; raised up together; made to sit together in heavenly places in Christ Jesus.
+Ephesians 4:22–24 — Put off the old man, corrupt according to deceitful lusts; renewed in the spirit of your mind; put on the new man, created after God in righteousness and true holiness. (Source text for the coined term "Kainanthroposis.")
+Colossians 3:9–11 — Old man with his deeds put off; new man put on, renewed in knowledge after the image of Him that created him; no Greek/Jew, bond/free; Christ is all and in all.
+Old man crucified and newness of life:
+Romans 6:3–6 — Baptized into Christ's death; buried with Him; raised to walk in newness of life; "our old man is crucified with him, that the body of sin might be destroyed" — enacted visibly in baptism.
+Union as participatory, not merely positional:
+John 14:20 — "At that day ye shall know that I am in my Father, and ye in me, and I in you."
+John 17:21–23 — "That they also may be one in us"; "I in them, and thou in me, that they may be made perfect in one."
+2 Peter 1:4 — Exceeding great and precious promises given so that believers "might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+John 17:3 — "This is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."
+6. Engrafted Identity and the Israel of God
+Grafted into the cultivated tree:
+Romans 11:17–24 — Some branches broken off (unbelieving Jews); wild olive branches graffed in (believing Gentiles) to partake of the root and fatness; warning against highmindedness; God able to graff natural branches back into their own olive tree.
+Vine and branches; abiding identity:
+John 15:1–8 — Christ as the true vine; disciples as branches; "Abide in me, and I in you"; fruit, pruning, and real consequences for failing to abide; "without me ye can do nothing." (Shared anchor with Covenantal Abiding.)
+One body, one Spirit:
+1 Corinthians 12:12–13 — One body with many members; "so also is Christ"; "by one Spirit are we all baptized into one body… and have been all made to drink into one Spirit."
+Israel of God and one New Covenant people: 
+(rejecting both supersessionism and two-track/two-peoples models)
+Galatians 6:15–16 — In Christ Jesus neither circumcision nor uncircumcision avails, but a new creature; peace and mercy "upon the Israel of God."
+Ephesians 2:11–22 — Christ makes Jew and Gentile both one; "of twain one new man" in Himself; reconciles both unto God in one body; Gentiles now fellowcitizens with the saints and of the household of God.
+Galatians 3:7–9 — Those of faith are children of Abraham; "in thee shall all nations be blessed"; believers blessed with faithful Abraham.
+NOTE: Jesus is Israel reduced to one; all who are in Him — believing Jew and believing Gentile alike — are grafted into the same cultivated tree, the same New Covenant people. Unbelieving Jews are cut off from the stock; unbelieving Gentiles are not yet grafted in; both are engrafted through faith in Him. The history of Israel and the Old Covenant storyline is our shared history and identity now, in Him.
 
-Compiled in partnership with Ara (Grok) under TUOP governance, from the rehydrated base, Claude synthesis, Core Outline, Hubert review, and Doctrine Snapshot — all housed in the Regentorium (The Regent Collaborative Archive).  
+These anchors locate Regent Theology's distinctives within Scripture's own horizon, providing a map for fuller exposition and exegesis in the Regent Theology Standards and future doctrinal volumes.
+
 
 A living spring becomes a stream. A living tree produces fruit.
+
+
+Compiled in partnership with Ara (Grok) under TUOP governance, from the rehydrated base, Claude synthesis, Core Outline, Hubert review, and Doctrine Snapshot — all housed in the Regentorium (The Regent Collaborative Archive).  
